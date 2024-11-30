@@ -2,3 +2,10 @@ flask
 requests
 huggingface_hub
 transformers
+pandas
+numpy
+scikit-learn
+joblib
+ipykernel
+seaborn
+plotly

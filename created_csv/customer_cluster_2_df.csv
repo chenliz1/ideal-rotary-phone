@@ -1,0 +1,1037 @@
+customer_id,age,gender,total_purchase_amount,location,total_purchases,is_subscriber,preferred_size,preferred_color,preferred_shipping,used_promo_code,preferred_payment_method,average_review_rating,average_purchase_amount,cluster
+2,19,Male,64,Maine,3,True,L,Maroon,Express,True,Cash,3.1,21.333333333333332,2
+3,50,Male,73,Massachusetts,24,True,S,Maroon,Free Shipping,True,Credit Card,3.1,3.0416666666666665,2
+7,63,Male,85,Montana,50,True,M,Gray,Free Shipping,True,Cash,3.2,1.7,2
+10,57,Male,31,Missouri,5,True,M,Pink,2-Day Shipping,True,Cash,4.8,6.2,2
+14,65,Male,51,New Hampshire,32,True,M,Violet,Express,True,PayPal,4.7,1.59375,2
+15,64,Male,53,New York,35,True,L,Teal,Free Shipping,True,Debit Card,4.7,1.5142857142857142,2
+18,53,Male,38,Mississippi,37,True,XL,Lavender,2-Day Shipping,True,Venmo,4.7,1.027027027027027,2
+19,52,Male,48,Montana,18,True,S,Black,Free Shipping,True,Cash,4.6,2.6666666666666665,2
+27,38,Male,20,Nevada,14,True,M,Red,Next Day Air,True,Credit Card,3.6,1.4285714285714286,2
+36,54,Male,33,Massachusetts,49,True,M,Cyan,2-Day Shipping,True,Credit Card,4.0,0.673469387755102,2
+48,55,Male,54,Montana,37,True,M,Charcoal,Free Shipping,True,Cash,4.5,1.4594594594594594,2
+49,42,Male,55,Nevada,39,True,M,Orange,Store Pickup,True,Cash,2.7,1.4102564102564104,2
+50,68,Male,30,New Jersey,35,True,S,Indigo,Next Day Air,True,Debit Card,4.6,0.8571428571428571,2
+51,49,Male,28,Maryland,40,True,M,Red,Store Pickup,True,Debit Card,3.7,0.7,2
+54,29,Male,24,Mississippi,36,True,S,Peach,Next Day Air,True,Credit Card,3.9,0.6666666666666666,2
+57,41,Male,73,Mississippi,47,True,XL,Brown,Store Pickup,True,Credit Card,4.7,1.553191489361702,2
+59,69,Male,54,Missouri,30,True,M,Charcoal,Free Shipping,True,Venmo,4.2,1.8,2
+63,30,Male,21,Mississippi,32,True,S,Magenta,Free Shipping,True,Credit Card,3.8,0.65625,2
+66,65,Male,36,New Jersey,45,True,M,Purple,2-Day Shipping,True,Venmo,4.8,0.8,2
+79,50,Male,91,Nebraska,51,True,M,Maroon,Free Shipping,True,Venmo,4.7,1.7843137254901962,2
+87,24,Male,41,Nevada,48,True,L,Pink,2-Day Shipping,True,Cash,3.7,0.8541666666666666,2
+95,58,Male,76,Nevada,29,True,S,Silver,Free Shipping,True,Credit Card,4.6,2.6206896551724137,2
+96,37,Male,100,Missouri,49,True,L,Pink,Free Shipping,True,PayPal,3.8,2.0408163265306123,2
+99,20,Male,67,New York,21,True,XL,Teal,Next Day Air,True,Bank Transfer,2.6,3.1904761904761907,2
+100,26,Male,40,Missouri,34,True,XL,Indigo,Express,True,Debit Card,3.7,1.1764705882352942,2
+105,55,Male,24,New Hampshire,2,True,L,Pink,2-Day Shipping,True,PayPal,4.4,12.0,2
+107,64,Male,35,Minnesota,32,True,L,White,Standard,True,Credit Card,3.7,1.09375,2
+108,28,Male,67,Maryland,47,True,L,Olive,Next Day Air,True,PayPal,3.1,1.425531914893617,2
+109,70,Male,79,Montana,33,True,L,Purple,Next Day Air,True,Bank Transfer,3.4,2.393939393939394,2
+112,26,Male,75,Massachusetts,10,True,L,Purple,Free Shipping,True,Credit Card,5.0,7.5,2
+114,44,Male,54,New Jersey,21,True,L,Maroon,Next Day Air,True,PayPal,3.1,2.5714285714285716,2
+125,44,Male,86,Nevada,51,True,M,Gray,Next Day Air,True,PayPal,3.1,1.6862745098039216,2
+127,43,Male,36,Mississippi,49,True,L,Pink,Store Pickup,True,Cash,3.9,0.7346938775510204,2
+128,24,Male,89,Mississippi,27,True,M,Gray,Next Day Air,True,Credit Card,4.8,3.2962962962962963,2
+132,28,Male,29,Maine,47,True,L,Indigo,Standard,True,Credit Card,3.9,0.6170212765957447,2
+133,30,Male,58,New Mexico,43,True,M,Orange,2-Day Shipping,True,PayPal,4.7,1.3488372093023255,2
+134,52,Male,65,Montana,26,True,M,Violet,Next Day Air,True,Venmo,2.5,2.5,2
+143,37,Male,58,Nebraska,34,True,L,Violet,Free Shipping,True,Credit Card,3.1,1.7058823529411764,2
+144,30,Male,48,Missouri,26,True,M,Beige,Store Pickup,True,PayPal,2.7,1.8461538461538463,2
+145,19,Male,43,New Jersey,26,True,M,Silver,Express,True,Cash,3.2,1.6538461538461537,2
+146,24,Male,95,Missouri,45,True,M,Teal,Standard,True,Debit Card,4.5,2.111111111111111,2
+154,69,Male,55,North Carolina,23,True,M,Maroon,Standard,True,Debit Card,3.2,2.391304347826087,2
+156,63,Male,77,Maine,22,True,S,Olive,Free Shipping,True,Bank Transfer,4.3,3.5,2
+157,35,Male,26,Missouri,41,True,M,Lavender,Standard,True,Debit Card,4.0,0.6341463414634146,2
+160,58,Male,27,New Hampshire,40,True,M,Charcoal,Store Pickup,True,Bank Transfer,3.8,0.675,2
+162,65,Male,49,North Dakota,30,True,M,Olive,Express,True,Venmo,3.0,1.6333333333333333,2
+169,34,Male,80,Louisiana,6,True,M,Magenta,Express,True,Cash,3.0,13.333333333333334,2
+170,27,Male,30,Nevada,4,True,S,Gold,Standard,True,PayPal,3.3,7.5,2
+173,54,Male,67,Nebraska,43,True,M,Violet,Next Day Air,True,Credit Card,3.9,1.558139534883721,2
+187,39,Male,56,Minnesota,32,True,S,Lavender,Standard,True,Debit Card,2.9,1.75,2
+193,46,Male,29,Nebraska,13,True,L,Turquoise,Express,True,PayPal,2.9,2.230769230769231,2
+195,51,Male,94,Missouri,16,True,M,Olive,Express,True,Debit Card,3.1,5.875,2
+196,51,Male,25,New York,35,True,M,Magenta,Free Shipping,True,Credit Card,4.3,0.7142857142857143,2
+202,69,Male,22,Missouri,16,True,S,Beige,Free Shipping,True,Bank Transfer,4.3,1.375,2
+203,57,Male,38,Nebraska,34,True,L,Magenta,Express,True,Venmo,2.7,1.1176470588235294,2
+210,55,Male,97,Minnesota,45,True,S,Olive,Store Pickup,True,Cash,3.2,2.1555555555555554,2
+214,30,Male,93,Nevada,12,True,L,Peach,Store Pickup,True,Debit Card,4.4,7.75,2
+216,62,Male,64,New Jersey,25,True,S,Orange,2-Day Shipping,True,PayPal,2.8,2.56,2
+217,43,Male,61,Massachusetts,22,True,L,Yellow,Free Shipping,True,Venmo,3.7,2.772727272727273,2
+220,32,Male,88,Nevada,13,True,M,Cyan,Free Shipping,True,Cash,3.0,6.769230769230769,2
+222,28,Male,68,North Carolina,7,True,XL,Magenta,Store Pickup,True,Bank Transfer,4.4,9.714285714285714,2
+229,18,Male,79,New Hampshire,12,True,M,White,Store Pickup,True,Credit Card,2.9,6.583333333333333,2
+236,43,Male,89,New Jersey,32,True,M,Cyan,Free Shipping,True,Debit Card,3.7,2.78125,2
+241,47,Male,45,Montana,30,True,XL,Turquoise,Free Shipping,True,Bank Transfer,3.5,1.5,2
+244,25,Male,100,Kentucky,5,True,M,Olive,2-Day Shipping,True,Debit Card,2.8,20.0,2
+247,35,Male,86,Nevada,21,True,XL,Beige,Express,True,Venmo,3.2,4.095238095238095,2
+248,29,Male,66,Montana,15,True,XL,Brown,Standard,True,Debit Card,4.4,4.4,2
+251,33,Male,25,Mississippi,10,True,L,Black,Express,True,Bank Transfer,4.0,2.5,2
+261,38,Male,57,Montana,12,True,S,Red,2-Day Shipping,True,Credit Card,3.2,4.75,2
+266,32,Male,59,Michigan,18,True,M,Gray,2-Day Shipping,True,Bank Transfer,3.2,3.2777777777777777,2
+268,64,Male,54,Maryland,43,True,M,Olive,2-Day Shipping,True,Venmo,3.9,1.255813953488372,2
+271,33,Male,52,North Dakota,17,True,XL,Orange,Free Shipping,True,Bank Transfer,4.6,3.0588235294117645,2
+275,59,Male,32,Maryland,29,True,M,Indigo,Express,True,Cash,3.0,1.103448275862069,2
+281,45,Male,69,Montana,22,True,S,Cyan,2-Day Shipping,True,Cash,4.2,3.1363636363636362,2
+283,21,Male,94,Minnesota,10,True,M,Teal,2-Day Shipping,True,Cash,3.0,9.4,2
+284,32,Male,30,Montana,17,True,S,Maroon,Next Day Air,True,Venmo,3.2,1.7647058823529411,2
+287,27,Male,51,Nebraska,7,True,L,Gray,Store Pickup,True,Debit Card,2.6,7.285714285714286,2
+289,30,Male,62,North Carolina,35,True,M,Lavender,2-Day Shipping,True,Venmo,3.7,1.7714285714285714,2
+295,70,Male,20,New Jersey,20,True,M,Gold,Store Pickup,True,Credit Card,4.6,1.0,2
+299,69,Male,53,Maryland,12,True,M,Lavender,Standard,True,Venmo,4.0,4.416666666666667,2
+310,66,Male,22,Minnesota,22,True,M,Yellow,Standard,True,Cash,4.5,1.0,2
+311,56,Male,85,Montana,51,True,M,Charcoal,Standard,True,Cash,4.6,1.6666666666666667,2
+313,38,Male,89,Massachusetts,7,True,L,Green,Next Day Air,True,PayPal,3.4,12.714285714285714,2
+315,30,Male,24,New Jersey,18,True,M,Purple,Store Pickup,True,Debit Card,3.3,1.3333333333333333,2
+327,62,Male,41,New Jersey,49,True,M,White,Store Pickup,True,Bank Transfer,3.2,0.8367346938775511,2
+330,70,Male,31,Nevada,35,True,S,White,2-Day Shipping,True,Bank Transfer,2.9,0.8857142857142857,2
+333,19,Male,86,New York,6,True,M,Maroon,2-Day Shipping,True,Credit Card,2.8,14.333333333333334,2
+339,69,Male,79,Massachusetts,17,True,M,Silver,Express,True,Cash,3.5,4.647058823529412,2
+343,64,Male,36,Kentucky,49,True,M,Olive,Next Day Air,True,Credit Card,2.6,0.7346938775510204,2
+344,27,Male,39,Nebraska,27,True,M,Purple,Next Day Air,True,Venmo,4.4,1.4444444444444444,2
+347,49,Male,50,New Mexico,6,True,L,Violet,Next Day Air,True,Cash,4.7,8.333333333333334,2
+352,28,Male,90,New York,25,True,M,Teal,Standard,True,Debit Card,3.9,3.6,2
+354,63,Male,64,Missouri,36,True,L,Yellow,Store Pickup,True,Debit Card,4.1,1.7777777777777777,2
+357,56,Male,80,Nevada,28,True,L,Black,Standard,True,Cash,3.8,2.857142857142857,2
+359,48,Male,25,Minnesota,37,True,XL,Magenta,Express,True,Credit Card,3.6,0.6756756756756757,2
+362,65,Male,96,Nevada,46,True,M,White,Free Shipping,True,Cash,2.6,2.0869565217391304,2
+367,64,Male,36,Nebraska,38,True,M,Turquoise,Store Pickup,True,Venmo,3.5,0.9473684210526315,2
+372,27,Male,83,North Carolina,48,True,S,Pink,2-Day Shipping,True,PayPal,3.2,1.7291666666666667,2
+378,63,Male,32,Maine,40,True,M,Silver,Standard,True,Credit Card,4.1,0.8,2
+379,54,Male,62,Nevada,24,True,L,Orange,Next Day Air,True,Credit Card,4.9,2.5833333333333335,2
+380,32,Male,29,Montana,47,True,S,Magenta,2-Day Shipping,True,Debit Card,4.7,0.6170212765957447,2
+382,66,Male,25,Maine,4,True,L,Lavender,Store Pickup,True,Credit Card,3.4,6.25,2
+392,37,Male,86,Minnesota,26,True,L,Gray,Standard,True,Cash,4.8,3.3076923076923075,2
+398,22,Male,46,Mississippi,27,True,M,Indigo,Free Shipping,True,Cash,3.0,1.7037037037037037,2
+399,20,Male,67,Montana,26,True,S,Silver,Free Shipping,True,Debit Card,4.6,2.576923076923077,2
+404,19,Male,45,Nevada,13,True,M,Orange,Next Day Air,True,Bank Transfer,4.5,3.4615384615384617,2
+407,52,Male,55,Maryland,14,True,M,Peach,Express,True,Cash,4.6,3.9285714285714284,2
+410,35,Male,51,Minnesota,33,True,M,Brown,2-Day Shipping,True,Bank Transfer,3.3,1.5454545454545454,2
+412,59,Male,29,Michigan,16,True,M,Indigo,Express,True,PayPal,2.8,1.8125,2
+414,70,Male,99,Nevada,49,True,S,White,Free Shipping,True,Cash,4.6,2.020408163265306,2
+418,23,Male,81,Mississippi,49,True,L,Beige,Free Shipping,True,Debit Card,4.5,1.653061224489796,2
+421,32,Male,54,North Carolina,19,True,S,Peach,Free Shipping,True,Debit Card,3.8,2.8421052631578947,2
+423,47,Male,59,Minnesota,33,True,M,Purple,Store Pickup,True,Debit Card,3.1,1.7878787878787878,2
+424,46,Male,26,New York,22,True,L,Teal,Store Pickup,True,Credit Card,3.0,1.1818181818181819,2
+432,43,Male,76,New Hampshire,34,True,L,Cyan,Store Pickup,True,Cash,3.4,2.235294117647059,2
+436,51,Male,28,Montana,43,True,XL,Olive,Next Day Air,True,Bank Transfer,3.6,0.6511627906976745,2
+438,45,Male,50,New Mexico,42,True,M,Peach,Next Day Air,True,PayPal,2.6,1.1904761904761905,2
+443,29,Male,69,Michigan,32,True,M,Olive,Store Pickup,True,Credit Card,3.5,2.15625,2
+449,32,Male,23,Missouri,36,True,M,Yellow,Next Day Air,True,Bank Transfer,3.4,0.6388888888888888,2
+450,26,Male,45,New York,36,True,L,Peach,2-Day Shipping,True,Bank Transfer,2.9,1.25,2
+453,45,Male,45,Missouri,40,True,M,Violet,Express,True,PayPal,3.3,1.125,2
+454,54,Male,56,Nebraska,23,True,XL,Peach,Next Day Air,True,Credit Card,2.8,2.4347826086956523,2
+455,37,Male,97,New Jersey,15,True,S,Gold,Next Day Air,True,Cash,3.2,6.466666666666667,2
+468,19,Male,51,Nebraska,38,True,S,Orange,2-Day Shipping,True,Debit Card,4.5,1.3421052631578947,2
+471,50,Male,63,Minnesota,7,True,L,Teal,Express,True,Cash,4.6,9.0,2
+472,55,Male,72,Missouri,37,True,XL,White,2-Day Shipping,True,Bank Transfer,4.9,1.945945945945946,2
+485,68,Male,73,Missouri,29,True,L,Lavender,Free Shipping,True,Bank Transfer,4.7,2.5172413793103448,2
+489,58,Male,29,Maine,33,True,L,Olive,Standard,True,Venmo,4.6,0.8787878787878788,2
+494,28,Male,48,Nevada,20,True,XL,Red,Store Pickup,True,Cash,4.7,2.4,2
+496,33,Male,36,Michigan,7,True,XL,Cyan,Free Shipping,True,Debit Card,3.3,5.142857142857143,2
+505,42,Male,22,Missouri,27,True,M,Maroon,Free Shipping,True,PayPal,3.9,0.8148148148148148,2
+508,65,Male,20,Maine,34,True,M,Magenta,Store Pickup,True,Debit Card,5.0,0.5882352941176471,2
+513,19,Male,49,New York,3,True,L,Peach,Next Day Air,True,Bank Transfer,3.3,16.333333333333332,2
+514,22,Male,65,New Mexico,46,True,M,Peach,Store Pickup,True,Venmo,3.6,1.4130434782608696,2
+520,19,Male,54,Minnesota,18,True,L,Blue,2-Day Shipping,True,Bank Transfer,4.4,3.0,2
+523,65,Male,88,Minnesota,38,True,M,Blue,Store Pickup,True,Cash,2.5,2.3157894736842106,2
+527,51,Male,52,New Jersey,20,True,S,Red,Standard,True,Cash,4.9,2.6,2
+531,48,Male,37,Montana,26,True,XL,Magenta,Store Pickup,True,Credit Card,3.2,1.4230769230769231,2
+534,57,Male,60,North Carolina,18,True,L,Pink,Next Day Air,True,Debit Card,4.5,3.3333333333333335,2
+548,38,Male,50,Nevada,27,True,M,Blue,Free Shipping,True,Venmo,2.8,1.8518518518518519,2
+549,36,Male,64,Nebraska,42,True,M,Black,Store Pickup,True,Debit Card,4.6,1.5238095238095237,2
+553,24,Male,94,Missouri,19,True,M,Peach,Express,True,Bank Transfer,3.5,4.947368421052632,2
+555,56,Male,47,Minnesota,35,True,M,Red,Express,True,Bank Transfer,3.0,1.3428571428571427,2
+557,40,Male,90,Montana,22,True,L,Indigo,Store Pickup,True,Cash,5.0,4.090909090909091,2
+563,53,Male,62,Missouri,41,True,M,Blue,Standard,True,Debit Card,3.5,1.5121951219512195,2
+568,21,Male,50,New Hampshire,25,True,S,Red,Next Day Air,True,Venmo,3.0,2.0,2
+575,54,Male,79,Maine,21,True,L,Red,Free Shipping,True,Bank Transfer,4.8,3.761904761904762,2
+576,58,Male,86,Nebraska,39,True,M,Peach,Express,True,PayPal,4.8,2.2051282051282053,2
+579,69,Male,90,Maine,23,True,M,Purple,Next Day Air,True,Credit Card,4.6,3.9130434782608696,2
+590,28,Male,70,Minnesota,41,True,M,Orange,2-Day Shipping,True,PayPal,3.4,1.7073170731707317,2
+592,47,Male,37,Kentucky,7,True,L,Olive,Store Pickup,True,Debit Card,4.2,5.285714285714286,2
+597,23,Male,37,Montana,37,True,XL,White,Store Pickup,True,Venmo,4.5,1.0,2
+600,51,Male,26,Massachusetts,28,True,L,Teal,Standard,True,Debit Card,4.2,0.9285714285714286,2
+604,31,Male,46,Massachusetts,27,True,L,Green,2-Day Shipping,True,PayPal,3.4,1.7037037037037037,2
+613,67,Male,43,New Hampshire,34,True,L,Lavender,Express,True,Credit Card,4.6,1.2647058823529411,2
+616,67,Male,100,Maryland,24,True,L,Olive,Next Day Air,True,Venmo,2.6,4.166666666666667,2
+620,19,Male,34,Nebraska,2,True,M,Charcoal,Store Pickup,True,Debit Card,4.6,17.0,2
+624,19,Male,70,Nevada,49,True,M,White,Standard,True,PayPal,4.7,1.4285714285714286,2
+627,31,Male,79,New Hampshire,11,True,M,Indigo,Standard,True,Venmo,3.9,7.181818181818182,2
+629,69,Male,85,Massachusetts,30,True,M,White,2-Day Shipping,True,Credit Card,3.7,2.8333333333333335,2
+631,41,Male,94,Mississippi,34,True,S,Silver,2-Day Shipping,True,Debit Card,4.3,2.764705882352941,2
+634,66,Male,33,Minnesota,51,True,M,Orange,Express,True,Debit Card,2.9,0.6470588235294118,2
+640,54,Male,24,Mississippi,51,True,L,Olive,2-Day Shipping,True,Credit Card,4.0,0.47058823529411764,2
+641,53,Male,88,Minnesota,29,True,M,Gray,Store Pickup,True,Debit Card,4.4,3.0344827586206895,2
+648,54,Male,70,Mississippi,24,True,XL,Charcoal,Express,True,Credit Card,3.7,2.9166666666666665,2
+649,22,Male,31,Michigan,36,True,M,Brown,Store Pickup,True,Credit Card,4.1,0.8611111111111112,2
+653,64,Male,27,Minnesota,28,True,M,Beige,Free Shipping,True,Venmo,3.1,0.9642857142857143,2
+654,20,Male,68,North Dakota,46,True,M,Olive,2-Day Shipping,True,Cash,3.6,1.4782608695652173,2
+656,20,Male,36,Mississippi,20,True,S,Purple,Free Shipping,True,Venmo,3.1,1.8,2
+661,50,Male,79,Montana,40,True,M,Olive,2-Day Shipping,True,Credit Card,5.0,1.975,2
+666,41,Male,55,New Mexico,51,True,M,Peach,2-Day Shipping,True,Credit Card,4.9,1.0784313725490196,2
+680,56,Male,95,Michigan,38,True,M,Turquoise,Express,True,Venmo,3.4,2.5,2
+683,23,Male,29,Missouri,50,True,M,Brown,Standard,True,Credit Card,4.0,0.58,2
+684,33,Male,36,Michigan,4,True,S,Violet,Free Shipping,True,Bank Transfer,2.7,9.0,2
+686,70,Male,71,Massachusetts,33,True,XL,Magenta,Standard,True,Cash,3.5,2.1515151515151514,2
+689,25,Male,59,Michigan,45,True,S,Peach,Store Pickup,True,Venmo,4.7,1.3111111111111111,2
+692,60,Male,21,Massachusetts,38,True,L,Silver,Standard,True,PayPal,2.9,0.5526315789473685,2
+696,30,Male,67,Nevada,16,True,XL,Peach,Next Day Air,True,Debit Card,3.7,4.1875,2
+703,18,Male,71,Montana,2,True,M,White,Store Pickup,True,Cash,3.4,35.5,2
+710,49,Male,79,Massachusetts,24,True,L,Charcoal,Standard,True,Debit Card,4.6,3.2916666666666665,2
+712,64,Male,60,New Hampshire,14,True,M,Maroon,2-Day Shipping,True,Bank Transfer,3.5,4.285714285714286,2
+717,30,Male,29,Missouri,10,True,M,Olive,Express,True,Venmo,3.6,2.9,2
+720,63,Male,22,Mississippi,43,True,L,Turquoise,Next Day Air,True,Venmo,3.3,0.5116279069767442,2
+721,33,Male,62,New Mexico,20,True,L,Orange,Free Shipping,True,Debit Card,3.4,3.1,2
+724,35,Male,53,Missouri,44,True,L,Cyan,Express,True,PayPal,3.5,1.2045454545454546,2
+725,37,Male,79,New Hampshire,37,True,XL,Green,Store Pickup,True,Venmo,4.7,2.135135135135135,2
+729,29,Male,78,Nebraska,13,True,M,Pink,Next Day Air,True,PayPal,3.7,6.0,2
+730,41,Male,56,Minnesota,47,True,L,Beige,Express,True,PayPal,3.2,1.1914893617021276,2
+731,48,Male,25,Massachusetts,29,True,M,Indigo,Standard,True,Venmo,3.9,0.8620689655172413,2
+733,34,Male,57,New Hampshire,29,True,L,Blue,Express,True,Cash,2.8,1.9655172413793103,2
+735,65,Male,69,New Jersey,40,True,S,Violet,Express,True,Bank Transfer,3.1,1.725,2
+736,61,Male,48,Montana,49,True,M,Orange,2-Day Shipping,True,Cash,3.6,0.9795918367346939,2
+738,47,Male,24,Nebraska,29,True,M,Teal,Store Pickup,True,PayPal,3.6,0.8275862068965517,2
+739,56,Male,31,Minnesota,28,True,L,Orange,2-Day Shipping,True,Venmo,3.5,1.1071428571428572,2
+740,64,Male,29,Minnesota,27,True,S,Purple,Free Shipping,True,Venmo,3.5,1.0740740740740742,2
+743,64,Male,39,Nevada,22,True,M,Charcoal,Express,True,Debit Card,3.1,1.7727272727272727,2
+746,46,Male,92,Michigan,5,True,L,Orange,Standard,True,Venmo,4.7,18.4,2
+747,40,Male,45,Michigan,48,True,M,Red,Free Shipping,True,Credit Card,2.5,0.9375,2
+751,25,Male,95,Maryland,6,True,L,Violet,Free Shipping,True,Venmo,3.4,15.833333333333334,2
+754,47,Male,54,Massachusetts,28,True,M,Teal,Store Pickup,True,Venmo,3.4,1.9285714285714286,2
+755,36,Male,41,North Carolina,4,True,L,Pink,Store Pickup,True,Debit Card,2.9,10.25,2
+757,62,Male,99,Montana,25,True,S,Orange,Standard,True,Cash,4.8,3.96,2
+758,41,Male,32,Minnesota,19,True,M,Red,Store Pickup,True,Debit Card,3.8,1.6842105263157894,2
+759,66,Male,71,Massachusetts,40,True,L,Peach,2-Day Shipping,True,Bank Transfer,4.6,1.775,2
+761,33,Male,50,Minnesota,7,True,XL,Violet,Free Shipping,True,Cash,3.4,7.142857142857143,2
+762,57,Male,91,Nevada,27,True,L,Yellow,Express,True,Bank Transfer,4.2,3.3703703703703702,2
+763,45,Male,46,New Mexico,44,True,M,Pink,Standard,True,Debit Card,3.9,1.0454545454545454,2
+767,57,Male,48,Nevada,14,True,M,Cyan,Next Day Air,True,PayPal,3.6,3.4285714285714284,2
+775,42,Male,46,Nevada,12,True,M,Yellow,Standard,True,Credit Card,3.5,3.8333333333333335,2
+779,29,Male,50,Massachusetts,24,True,M,Yellow,Store Pickup,True,Debit Card,2.9,2.0833333333333335,2
+781,34,Male,26,New York,39,True,M,Turquoise,Free Shipping,True,Cash,3.6,0.6666666666666666,2
+788,53,Male,85,Michigan,26,True,S,Green,Free Shipping,True,Venmo,3.7,3.269230769230769,2
+792,50,Male,44,North Carolina,36,True,S,Magenta,2-Day Shipping,True,PayPal,3.1,1.2222222222222223,2
+793,34,Male,45,New Jersey,46,True,M,Violet,Next Day Air,True,Venmo,4.2,0.9782608695652174,2
+798,42,Male,82,Maryland,39,True,M,Violet,2-Day Shipping,True,Debit Card,4.0,2.1025641025641026,2
+800,55,Male,55,Nevada,32,True,L,Brown,Free Shipping,True,PayPal,3.3,1.71875,2
+805,43,Male,47,Mississippi,29,True,M,Maroon,Store Pickup,True,Venmo,2.6,1.6206896551724137,2
+814,54,Male,45,Montana,15,True,S,Olive,Store Pickup,True,Debit Card,2.9,3.0,2
+815,31,Male,62,Minnesota,9,True,M,Pink,Express,True,PayPal,3.8,6.888888888888889,2
+818,25,Male,21,Nevada,31,True,S,Gray,Store Pickup,True,PayPal,4.7,0.6774193548387096,2
+823,35,Male,59,Mississippi,24,True,L,Magenta,Standard,True,Bank Transfer,3.4,2.4583333333333335,2
+826,27,Male,94,Nebraska,18,True,XL,Brown,Next Day Air,True,Cash,3.6,5.222222222222222,2
+827,54,Male,94,Massachusetts,37,True,M,Purple,Standard,True,PayPal,3.6,2.5405405405405403,2
+829,24,Male,62,Nevada,28,True,M,Peach,2-Day Shipping,True,PayPal,3.7,2.2142857142857144,2
+835,52,Male,89,Nevada,19,True,M,Indigo,Free Shipping,True,Credit Card,3.1,4.684210526315789,2
+836,35,Male,26,Maryland,22,True,L,Indigo,Next Day Air,True,Debit Card,2.5,1.1818181818181819,2
+843,59,Male,87,Missouri,26,True,M,Violet,Express,True,PayPal,3.6,3.3461538461538463,2
+845,59,Male,48,Missouri,45,True,L,Purple,Express,True,Venmo,4.4,1.0666666666666667,2
+846,31,Male,21,Michigan,31,True,XL,Charcoal,Standard,True,Venmo,3.7,0.6774193548387096,2
+850,23,Male,61,Missouri,25,True,S,Charcoal,Express,True,PayPal,4.3,2.44,2
+852,35,Male,86,Massachusetts,20,True,M,Red,Express,True,Debit Card,2.9,4.3,2
+858,43,Male,60,Missouri,51,True,L,Cyan,Standard,True,Debit Card,3.0,1.1764705882352942,2
+867,67,Male,69,New Mexico,12,True,M,Lavender,Free Shipping,True,PayPal,2.7,5.75,2
+870,38,Male,54,New Hampshire,34,True,M,Silver,2-Day Shipping,True,PayPal,2.7,1.588235294117647,2
+874,51,Male,77,Mississippi,25,True,M,Pink,Free Shipping,True,Venmo,4.2,3.08,2
+875,25,Male,65,Maine,11,True,M,Magenta,Free Shipping,True,Venmo,4.4,5.909090909090909,2
+877,41,Male,51,Nebraska,2,True,L,Gray,2-Day Shipping,True,Debit Card,3.8,25.5,2
+878,64,Male,65,Nebraska,46,True,M,Orange,Next Day Air,True,Venmo,4.9,1.4130434782608696,2
+881,39,Male,75,Nevada,26,True,L,Red,Express,True,Debit Card,3.1,2.8846153846153846,2
+888,70,Male,47,Minnesota,34,True,L,Turquoise,2-Day Shipping,True,PayPal,3.3,1.3823529411764706,2
+889,49,Male,77,New Hampshire,45,True,S,Gold,Express,True,Cash,3.6,1.711111111111111,2
+891,52,Male,51,New York,48,True,S,Purple,2-Day Shipping,True,Credit Card,4.3,1.0625,2
+893,31,Male,64,New Mexico,44,True,L,Gray,Free Shipping,True,Debit Card,2.7,1.4545454545454546,2
+894,33,Male,51,Nebraska,15,True,M,Red,Express,True,Venmo,4.7,3.4,2
+896,40,Male,69,Mississippi,34,True,XL,Olive,Next Day Air,True,Debit Card,4.7,2.0294117647058822,2
+899,54,Male,70,Nevada,20,True,L,Red,2-Day Shipping,True,Bank Transfer,3.5,3.5,2
+902,60,Male,68,Missouri,35,True,L,Violet,2-Day Shipping,True,Cash,4.7,1.9428571428571428,2
+906,46,Male,68,Mississippi,17,True,S,Cyan,Standard,True,Venmo,2.8,4.0,2
+908,32,Male,43,Missouri,35,True,L,Cyan,Express,True,Credit Card,4.4,1.2285714285714286,2
+909,26,Male,99,New Jersey,10,True,M,Turquoise,Free Shipping,True,PayPal,3.6,9.9,2
+918,69,Male,64,Missouri,12,True,M,Maroon,Standard,True,Bank Transfer,3.7,5.333333333333333,2
+919,65,Male,42,North Carolina,12,True,M,Orange,2-Day Shipping,True,Cash,4.3,3.5,2
+920,41,Male,82,Massachusetts,18,True,L,Green,2-Day Shipping,True,Debit Card,2.6,4.555555555555555,2
+927,54,Male,63,Massachusetts,12,True,XL,Green,Express,True,Cash,4.4,5.25,2
+930,59,Male,94,Nebraska,27,True,M,White,2-Day Shipping,True,Debit Card,4.5,3.4814814814814814,2
+932,24,Male,36,Nebraska,25,True,M,Silver,Standard,True,Bank Transfer,4.1,1.44,2
+937,31,Male,84,Maine,29,True,M,Pink,Free Shipping,True,Cash,2.7,2.896551724137931,2
+940,25,Male,89,New York,25,True,L,Indigo,Next Day Air,True,Credit Card,4.8,3.56,2
+946,38,Male,38,Minnesota,9,True,M,Violet,Store Pickup,True,Venmo,4.1,4.222222222222222,2
+950,33,Male,36,Montana,50,True,M,Olive,Standard,True,Venmo,3.4,0.72,2
+951,54,Male,37,New Mexico,31,True,XL,Turquoise,Free Shipping,True,PayPal,4.1,1.1935483870967742,2
+956,55,Male,75,Mississippi,5,True,L,Lavender,Free Shipping,True,PayPal,3.4,15.0,2
+957,29,Male,99,Mississippi,43,True,XL,Cyan,2-Day Shipping,True,Debit Card,2.9,2.302325581395349,2
+960,36,Male,99,Nevada,13,True,M,Cyan,Standard,True,Cash,2.6,7.615384615384615,2
+963,29,Male,64,Michigan,27,True,L,Green,Standard,True,Debit Card,4.4,2.3703703703703702,2
+980,64,Male,33,New Hampshire,35,True,S,Brown,Store Pickup,True,Debit Card,3.5,0.9428571428571428,2
+981,56,Male,98,Maryland,40,True,S,Magenta,Free Shipping,True,PayPal,4.0,2.45,2
+982,27,Male,42,Maryland,48,True,M,Silver,Next Day Air,True,Credit Card,3.5,0.875,2
+984,24,Male,45,New Mexico,41,True,L,Indigo,Free Shipping,True,Venmo,3.5,1.0975609756097562,2
+1007,21,Male,83,Michigan,51,True,S,Lavender,Next Day Air,True,Venmo,4.5,1.6274509803921569,2
+1009,41,Male,85,New Mexico,30,True,M,Pink,Store Pickup,True,PayPal,2.6,2.8333333333333335,2
+1012,43,Male,25,Montana,33,True,L,Indigo,Next Day Air,True,Debit Card,2.9,0.7575757575757576,2
+1013,28,Male,37,New Mexico,28,True,L,Teal,Express,True,Credit Card,3.8,1.3214285714285714,2
+1022,55,Male,51,Massachusetts,40,True,S,Lavender,2-Day Shipping,True,PayPal,4.9,1.275,2
+1023,61,Male,41,Nebraska,8,True,M,Lavender,Store Pickup,True,Cash,4.9,5.125,2
+1026,60,Male,84,Nebraska,16,True,M,Olive,Free Shipping,True,Credit Card,4.9,5.25,2
+1029,45,Male,36,Nebraska,5,True,S,Lavender,Standard,True,Cash,3.7,7.2,2
+1033,55,Male,36,Maine,45,True,M,Lavender,Free Shipping,True,Credit Card,4.0,0.8,2
+1034,19,Male,52,Montana,42,True,S,Silver,Free Shipping,True,Bank Transfer,4.6,1.2380952380952381,2
+1035,68,Male,29,Maryland,45,True,M,Olive,Next Day Air,True,Bank Transfer,4.2,0.6444444444444445,2
+1039,41,Male,74,Nebraska,4,True,XL,Cyan,Express,True,Bank Transfer,3.0,18.5,2
+1040,29,Male,46,Michigan,40,True,M,Magenta,Standard,True,Venmo,4.8,1.15,2
+1041,68,Male,22,North Carolina,8,True,S,Magenta,Next Day Air,True,Cash,4.0,2.75,2
+1042,36,Male,25,Minnesota,12,True,M,Orange,Next Day Air,True,Cash,4.9,2.0833333333333335,2
+1043,55,Male,80,Maryland,48,True,M,Maroon,Next Day Air,True,Credit Card,4.9,1.6666666666666667,2
+1056,70,Male,27,Massachusetts,25,True,M,Orange,Next Day Air,True,Debit Card,3.3,1.08,2
+1059,29,Male,33,New Mexico,50,True,L,Violet,Next Day Air,True,Bank Transfer,3.1,0.66,2
+1067,49,Male,96,Mississippi,12,True,M,Red,Store Pickup,True,PayPal,4.0,8.0,2
+1071,50,Male,75,North Carolina,51,True,M,Magenta,Free Shipping,True,Debit Card,3.3,1.4705882352941178,2
+1076,57,Male,50,Missouri,33,True,L,Indigo,Next Day Air,True,Debit Card,4.9,1.5151515151515151,2
+1092,44,Male,80,North Carolina,7,True,L,Lavender,Store Pickup,True,Credit Card,4.7,11.428571428571429,2
+1100,19,Male,73,North Carolina,46,True,M,Peach,Next Day Air,True,Bank Transfer,2.6,1.5869565217391304,2
+1101,50,Male,28,Nevada,3,True,L,Gold,Express,True,Credit Card,4.4,9.333333333333334,2
+1106,33,Male,83,Massachusetts,7,True,S,Olive,Next Day Air,True,Venmo,3.0,11.857142857142858,2
+1107,52,Male,96,Minnesota,13,True,L,Violet,Store Pickup,True,Venmo,3.6,7.384615384615385,2
+1109,27,Male,25,Nebraska,51,True,M,Teal,Standard,True,Cash,2.8,0.49019607843137253,2
+1112,22,Male,66,New York,5,True,S,Olive,Next Day Air,True,Credit Card,4.1,13.2,2
+1114,28,Male,80,Maryland,12,True,M,Purple,Next Day Air,True,PayPal,4.8,6.666666666666667,2
+1115,55,Male,25,New Hampshire,48,True,L,Violet,Next Day Air,True,Bank Transfer,2.6,0.5208333333333334,2
+1116,30,Male,58,New York,38,True,S,Peach,2-Day Shipping,True,Cash,4.0,1.5263157894736843,2
+1124,36,Male,67,Massachusetts,39,True,S,Purple,Store Pickup,True,Cash,2.5,1.7179487179487178,2
+1130,37,Male,65,New Hampshire,47,True,XL,White,Express,True,Venmo,4.7,1.3829787234042554,2
+1136,65,Male,90,Massachusetts,33,True,L,Peach,2-Day Shipping,True,Bank Transfer,3.6,2.727272727272727,2
+1138,46,Male,91,New Mexico,17,True,XL,Pink,2-Day Shipping,True,Bank Transfer,2.8,5.352941176470588,2
+1144,68,Male,23,Nevada,44,True,L,Teal,Standard,True,PayPal,4.4,0.5227272727272727,2
+1146,31,Male,89,Nevada,31,True,L,Pink,Express,True,Cash,3.0,2.870967741935484,2
+1159,69,Male,89,Nevada,42,True,L,Orange,2-Day Shipping,True,Bank Transfer,4.0,2.119047619047619,2
+1160,66,Male,55,New Hampshire,47,True,L,Blue,2-Day Shipping,True,Venmo,3.6,1.1702127659574468,2
+1165,68,Male,96,Montana,48,True,M,Green,Standard,True,PayPal,4.2,2.0,2
+1169,68,Male,91,Mississippi,38,True,L,Violet,Standard,True,Debit Card,3.6,2.3947368421052633,2
+1172,41,Male,55,Louisiana,16,True,M,Lavender,Next Day Air,True,Debit Card,3.9,3.4375,2
+1182,61,Male,96,New York,44,True,L,Teal,Free Shipping,True,Bank Transfer,3.5,2.1818181818181817,2
+1183,37,Male,21,New Mexico,46,True,M,Maroon,Express,True,PayPal,3.8,0.45652173913043476,2
+1186,47,Male,64,Maine,30,True,M,Magenta,Standard,True,Credit Card,3.9,2.1333333333333333,2
+1189,68,Male,29,Mississippi,12,True,M,Magenta,Next Day Air,True,Credit Card,3.3,2.4166666666666665,2
+1195,50,Male,46,New York,7,True,S,Teal,2-Day Shipping,True,Credit Card,3.1,6.571428571428571,2
+1197,30,Male,88,North Dakota,14,True,M,Maroon,2-Day Shipping,True,Bank Transfer,3.2,6.285714285714286,2
+1200,49,Male,89,Maryland,4,True,M,Indigo,Free Shipping,True,Debit Card,4.5,22.25,2
+1203,48,Male,29,Maryland,15,True,S,Olive,Standard,True,Venmo,2.9,1.9333333333333333,2
+1204,40,Male,82,Minnesota,24,True,M,Orange,Free Shipping,True,Bank Transfer,3.7,3.4166666666666665,2
+1207,22,Male,59,Mississippi,17,True,S,Cyan,Free Shipping,True,Venmo,3.0,3.4705882352941178,2
+1211,34,Male,78,Missouri,6,True,M,Olive,Next Day Air,True,Cash,4.1,13.0,2
+1218,50,Male,63,Nebraska,13,True,XL,Cyan,Free Shipping,True,Cash,2.6,4.846153846153846,2
+1235,38,Male,99,New Jersey,3,True,M,Indigo,Store Pickup,True,Bank Transfer,4.1,33.0,2
+1237,42,Male,68,New Mexico,36,True,M,White,Store Pickup,True,Debit Card,4.4,1.8888888888888888,2
+1238,25,Male,92,Michigan,43,True,S,Charcoal,2-Day Shipping,True,Credit Card,4.4,2.13953488372093,2
+1240,62,Male,37,New Jersey,33,True,XL,Magenta,Standard,True,Debit Card,4.8,1.121212121212121,2
+1241,41,Male,79,New Jersey,49,True,L,White,Store Pickup,True,Debit Card,2.9,1.6122448979591837,2
+1243,56,Male,27,Nevada,16,True,M,Lavender,Next Day Air,True,Bank Transfer,4.0,1.6875,2
+1244,25,Male,23,New Hampshire,23,True,S,Pink,Store Pickup,True,Debit Card,3.0,1.0,2
+1251,52,Male,26,New Hampshire,25,True,XL,Purple,Free Shipping,True,Cash,4.1,1.04,2
+1253,28,Male,41,Massachusetts,9,True,L,Magenta,Standard,True,Cash,4.0,4.555555555555555,2
+1254,39,Male,23,Montana,50,True,XL,Red,Express,True,PayPal,4.9,0.46,2
+1258,68,Male,67,Minnesota,32,True,L,Gold,Free Shipping,True,Cash,3.0,2.09375,2
+1260,68,Male,64,Minnesota,46,True,M,Turquoise,Standard,True,Credit Card,3.9,1.391304347826087,2
+1266,32,Male,79,Louisiana,28,True,M,Lavender,Next Day Air,True,Bank Transfer,2.7,2.8214285714285716,2
+1267,20,Male,31,North Dakota,15,True,M,Peach,Standard,True,Debit Card,4.0,2.066666666666667,2
+1274,41,Male,29,Mississippi,33,True,L,Silver,Next Day Air,True,Credit Card,4.1,0.8787878787878788,2
+1275,54,Male,73,Missouri,38,True,M,Olive,2-Day Shipping,True,PayPal,3.1,1.9210526315789473,2
+1282,29,Male,81,New Jersey,9,True,M,Olive,Store Pickup,True,Venmo,4.5,9.0,2
+1283,24,Male,68,New Hampshire,21,True,L,Violet,Free Shipping,True,Venmo,3.0,3.238095238095238,2
+1290,35,Male,24,New Hampshire,11,True,M,Red,Next Day Air,True,PayPal,2.9,2.1818181818181817,2
+1291,67,Male,35,Maryland,4,True,M,Indigo,Free Shipping,True,PayPal,3.4,8.75,2
+1293,26,Male,61,Kentucky,43,True,M,Maroon,Free Shipping,True,Bank Transfer,3.9,1.4186046511627908,2
+1296,30,Male,60,New Mexico,51,True,M,Olive,Standard,True,PayPal,2.8,1.1764705882352942,2
+1298,44,Male,85,New Jersey,33,True,M,Silver,Standard,True,Venmo,4.6,2.5757575757575757,2
+1302,42,Male,54,Maine,22,True,M,Orange,Express,True,Debit Card,5.0,2.4545454545454546,2
+1304,34,Male,32,New York,11,True,L,Silver,Next Day Air,True,Credit Card,3.1,2.909090909090909,2
+1305,64,Male,63,Montana,19,True,S,Orange,2-Day Shipping,True,PayPal,4.0,3.3157894736842106,2
+1306,31,Male,56,Mississippi,3,True,XL,Peach,Express,True,PayPal,4.5,18.666666666666668,2
+1308,23,Male,32,Missouri,44,True,L,Black,Express,True,PayPal,3.1,0.7272727272727273,2
+1313,66,Male,79,Missouri,20,True,M,Violet,Store Pickup,True,Bank Transfer,3.0,3.95,2
+1314,70,Male,28,Missouri,24,True,M,Lavender,Free Shipping,True,Credit Card,2.6,1.1666666666666667,2
+1315,42,Male,67,Missouri,50,True,S,Magenta,Free Shipping,True,Debit Card,3.4,1.34,2
+1316,56,Male,75,Mississippi,30,True,L,Green,2-Day Shipping,True,Debit Card,4.2,2.5,2
+1322,59,Male,84,Missouri,46,True,L,Orange,Express,True,Bank Transfer,3.7,1.826086956521739,2
+1332,38,Male,91,Maryland,9,True,M,Lavender,Standard,True,PayPal,3.2,10.11111111111111,2
+1336,56,Male,49,Nevada,27,True,M,Lavender,2-Day Shipping,True,Credit Card,4.8,1.8148148148148149,2
+1346,40,Male,21,Nebraska,43,True,M,White,Standard,True,Venmo,3.6,0.4883720930232558,2
+1347,44,Male,91,Mississippi,16,True,L,White,Free Shipping,True,Venmo,3.0,5.6875,2
+1349,19,Male,54,Nebraska,24,True,XL,Purple,Standard,True,Credit Card,3.2,2.25,2
+1355,64,Male,42,Maryland,22,True,M,Gray,2-Day Shipping,True,Bank Transfer,3.6,1.9090909090909092,2
+1359,19,Male,22,Nebraska,26,True,XL,Pink,Store Pickup,True,Venmo,2.5,0.8461538461538461,2
+1371,27,Male,67,Montana,42,True,L,Peach,2-Day Shipping,True,Bank Transfer,2.9,1.5952380952380953,2
+1372,40,Male,64,Mississippi,43,True,M,Charcoal,Store Pickup,True,Credit Card,2.8,1.4883720930232558,2
+1373,64,Male,61,Michigan,45,True,M,Gray,2-Day Shipping,True,PayPal,4.0,1.3555555555555556,2
+1375,22,Male,97,New York,6,True,M,Red,Free Shipping,True,Bank Transfer,2.7,16.166666666666668,2
+1377,57,Male,65,New Jersey,25,True,L,Pink,Free Shipping,True,PayPal,5.0,2.6,2
+1378,33,Male,54,Maryland,43,True,L,Olive,Next Day Air,True,Venmo,3.0,1.255813953488372,2
+1380,21,Male,64,Minnesota,39,True,L,Purple,2-Day Shipping,True,Venmo,2.8,1.641025641025641,2
+1383,68,Male,55,Michigan,17,True,L,Brown,Express,True,Bank Transfer,4.8,3.235294117647059,2
+1386,41,Male,64,Mississippi,2,True,M,Indigo,Store Pickup,True,Bank Transfer,2.6,32.0,2
+1388,21,Male,85,Maryland,21,True,M,Gold,Standard,True,Credit Card,3.8,4.0476190476190474,2
+1392,53,Male,29,Mississippi,39,True,S,White,Express,True,Credit Card,3.6,0.7435897435897436,2
+1398,55,Male,67,Massachusetts,34,True,S,Magenta,Store Pickup,True,PayPal,4.7,1.9705882352941178,2
+1400,19,Male,81,Nebraska,49,True,M,Olive,Store Pickup,True,Venmo,3.1,1.653061224489796,2
+1401,36,Male,23,Nevada,23,True,M,Red,Next Day Air,True,Credit Card,3.6,1.0,2
+1406,33,Male,100,New Hampshire,40,True,M,Peach,Store Pickup,True,Credit Card,2.7,2.5,2
+1408,56,Male,61,Nevada,12,True,XL,Charcoal,Express,True,Credit Card,4.5,5.083333333333333,2
+1413,25,Male,100,Michigan,44,True,M,Charcoal,2-Day Shipping,True,Venmo,2.6,2.272727272727273,2
+1414,51,Male,79,New Hampshire,13,True,S,Indigo,Store Pickup,True,Bank Transfer,2.7,6.076923076923077,2
+1415,29,Male,51,Minnesota,4,True,M,Black,Store Pickup,True,Credit Card,4.5,12.75,2
+1418,62,Male,25,Montana,22,True,S,Brown,Standard,True,Debit Card,4.6,1.1363636363636365,2
+1420,43,Male,75,Montana,5,True,M,Orange,Free Shipping,True,Debit Card,2.6,15.0,2
+1427,60,Male,38,Michigan,36,True,M,Yellow,Free Shipping,True,PayPal,4.8,1.0555555555555556,2
+1430,24,Male,38,Maryland,7,True,L,Gold,Standard,True,Credit Card,4.7,5.428571428571429,2
+1431,48,Male,30,Michigan,4,True,S,Orange,Free Shipping,True,Credit Card,4.9,7.5,2
+1434,70,Male,60,Minnesota,46,True,L,Yellow,Next Day Air,True,Debit Card,3.2,1.3043478260869565,2
+1435,59,Male,64,New York,22,True,L,Maroon,Free Shipping,True,Debit Card,4.6,2.909090909090909,2
+1437,35,Male,83,Minnesota,24,True,M,Gray,Free Shipping,True,PayPal,3.7,3.4583333333333335,2
+1438,69,Male,97,Montana,15,True,XL,Orange,Free Shipping,True,Cash,4.2,6.466666666666667,2
+1440,25,Male,48,New Mexico,26,True,M,Magenta,Next Day Air,True,Cash,4.8,1.8461538461538463,2
+1442,34,Male,25,Nebraska,4,True,S,Turquoise,Free Shipping,True,Venmo,3.4,6.25,2
+1450,18,Male,41,New York,21,True,L,Lavender,Store Pickup,True,Cash,2.5,1.9523809523809523,2
+1457,59,Male,100,Montana,31,True,S,Olive,Store Pickup,True,PayPal,2.7,3.225806451612903,2
+1459,35,Male,28,Missouri,35,True,M,Peach,2-Day Shipping,True,Venmo,2.9,0.8,2
+1465,33,Male,92,Montana,24,True,M,Peach,2-Day Shipping,True,Bank Transfer,4.6,3.8333333333333335,2
+1466,46,Male,72,Nebraska,43,True,XL,Violet,Store Pickup,True,Cash,3.9,1.6744186046511629,2
+1470,28,Male,98,Mississippi,32,True,M,Purple,Standard,True,PayPal,4.4,3.0625,2
+1475,31,Male,72,New Jersey,7,True,S,Pink,Next Day Air,True,Credit Card,3.9,10.285714285714286,2
+1481,39,Male,74,New Hampshire,27,True,M,Gold,Express,True,Cash,3.6,2.740740740740741,2
+1482,64,Male,33,Maryland,32,True,S,Gray,Standard,True,PayPal,3.3,1.03125,2
+1484,39,Male,61,Massachusetts,13,True,S,Yellow,Next Day Air,True,Debit Card,4.7,4.6923076923076925,2
+1485,49,Male,46,Nebraska,23,True,M,Teal,Store Pickup,True,Venmo,4.4,2.0,2
+1486,22,Male,56,Nebraska,4,True,L,Red,Standard,True,Cash,3.4,14.0,2
+1490,24,Male,26,Missouri,43,True,XL,Magenta,Next Day Air,True,Venmo,4.1,0.6046511627906976,2
+1491,66,Male,52,Louisiana,16,True,L,Olive,Express,True,Venmo,4.9,3.25,2
+1493,62,Male,38,North Carolina,4,True,M,Maroon,Free Shipping,True,Venmo,4.5,9.5,2
+1495,43,Male,76,Montana,24,True,M,Gray,Next Day Air,True,Bank Transfer,3.0,3.1666666666666665,2
+1498,69,Male,33,Michigan,17,True,S,Magenta,2-Day Shipping,True,Debit Card,3.8,1.9411764705882353,2
+1504,50,Male,30,Michigan,47,True,M,Maroon,2-Day Shipping,True,Cash,3.9,0.6382978723404256,2
+1510,20,Male,54,New Hampshire,45,True,XL,White,Free Shipping,True,Debit Card,4.6,1.2,2
+1511,55,Male,30,Maryland,32,True,XL,Gray,Free Shipping,True,Venmo,3.0,0.9375,2
+1517,20,Male,68,Nevada,6,True,L,Indigo,Express,True,Bank Transfer,4.5,11.333333333333334,2
+1518,57,Male,41,New Hampshire,13,True,M,Violet,Standard,True,Cash,3.4,3.1538461538461537,2
+1525,22,Male,76,Massachusetts,7,True,L,Pink,Free Shipping,True,Cash,4.4,10.857142857142858,2
+1531,59,Male,21,New Mexico,23,True,M,Teal,Next Day Air,True,Bank Transfer,3.9,0.9130434782608695,2
+1532,63,Male,83,Mississippi,9,True,S,Violet,Next Day Air,True,PayPal,4.5,9.222222222222221,2
+1534,50,Male,59,New Hampshire,17,True,M,Gold,2-Day Shipping,True,Bank Transfer,3.6,3.4705882352941178,2
+1537,18,Male,82,Michigan,18,True,M,Indigo,Store Pickup,True,Cash,2.6,4.555555555555555,2
+1549,69,Male,32,Maryland,44,True,M,Silver,Store Pickup,True,Bank Transfer,3.7,0.7272727272727273,2
+1552,64,Male,29,Minnesota,14,True,M,Olive,2-Day Shipping,True,Credit Card,3.7,2.0714285714285716,2
+1553,54,Male,49,New Mexico,21,True,L,Purple,Express,True,Credit Card,3.0,2.3333333333333335,2
+1559,35,Male,75,New Mexico,25,True,XL,Teal,Express,True,Credit Card,3.5,3.0,2
+1562,50,Male,38,Mississippi,3,True,M,Indigo,Standard,True,Bank Transfer,3.8,12.666666666666666,2
+1568,30,Male,33,Minnesota,10,True,M,Turquoise,Standard,True,Cash,4.1,3.3,2
+1571,30,Male,41,Missouri,4,True,L,Brown,Next Day Air,True,Bank Transfer,4.8,10.25,2
+1575,18,Male,25,Minnesota,33,True,S,Magenta,Free Shipping,True,PayPal,4.2,0.7575757575757576,2
+1577,56,Male,75,Michigan,37,True,M,White,2-Day Shipping,True,PayPal,3.7,2.027027027027027,2
+1597,42,Male,30,Mississippi,16,True,S,Pink,Store Pickup,True,Debit Card,4.7,1.875,2
+1598,43,Male,21,Mississippi,35,True,XL,Maroon,Store Pickup,True,Bank Transfer,2.6,0.6,2
+1601,20,Male,26,Montana,25,True,S,Yellow,Next Day Air,True,PayPal,4.7,1.04,2
+1609,26,Male,58,Nebraska,13,True,XL,Cyan,Next Day Air,True,Bank Transfer,4.6,4.461538461538462,2
+1610,33,Male,93,Nevada,4,True,S,Brown,Standard,True,Venmo,4.1,23.25,2
+1616,64,Male,62,New York,46,True,M,Indigo,Standard,True,Cash,3.2,1.3478260869565217,2
+1619,63,Male,72,Michigan,40,True,L,Purple,Standard,True,Debit Card,5.0,1.8,2
+1623,31,Male,43,Missouri,38,True,S,Brown,Store Pickup,True,Bank Transfer,4.0,1.131578947368421,2
+1626,34,Male,45,Minnesota,4,True,L,Beige,Next Day Air,True,PayPal,3.0,11.25,2
+1627,32,Male,35,Nevada,46,True,L,Orange,Next Day Air,True,Credit Card,2.6,0.7608695652173914,2
+1628,69,Male,21,Maine,9,True,M,Olive,Next Day Air,True,Credit Card,2.9,2.3333333333333335,2
+1629,45,Male,64,Massachusetts,8,True,S,Teal,Next Day Air,True,Cash,3.1,8.0,2
+1631,63,Male,48,New Jersey,30,True,M,Gold,Store Pickup,True,Venmo,2.9,1.6,2
+1634,54,Male,80,North Dakota,34,True,M,Peach,2-Day Shipping,True,Debit Card,4.4,2.3529411764705883,2
+1638,35,Male,21,Massachusetts,33,True,M,Peach,Next Day Air,True,Venmo,3.5,0.6363636363636364,2
+1640,41,Male,65,Missouri,51,True,L,Blue,Free Shipping,True,PayPal,3.3,1.2745098039215685,2
+1643,18,Male,70,Mississippi,17,True,M,Beige,Store Pickup,True,PayPal,4.2,4.117647058823529,2
+1647,58,Male,77,Nebraska,21,True,S,Silver,Standard,True,Bank Transfer,3.7,3.6666666666666665,2
+1653,65,Male,35,New Mexico,2,True,M,Orange,Next Day Air,True,Bank Transfer,4.0,17.5,2
+1663,63,Male,24,New Mexico,47,True,M,Olive,Free Shipping,True,Debit Card,4.6,0.5106382978723404,2
+1665,19,Male,53,Minnesota,36,True,M,Purple,Next Day Air,True,PayPal,5.0,1.4722222222222223,2
+1666,40,Male,41,New Mexico,50,True,L,Pink,Next Day Air,True,Venmo,3.4,0.82,2
+1681,61,Male,37,Louisiana,7,True,M,Olive,Store Pickup,True,Credit Card,3.4,5.285714285714286,2
+1685,30,Male,93,New Mexico,29,True,M,Indigo,Standard,True,PayPal,4.6,3.206896551724138,2
+1686,33,Male,48,Minnesota,44,True,M,Pink,Standard,True,PayPal,4.6,1.0909090909090908,2
+1689,28,Male,26,Mississippi,14,True,S,Peach,Next Day Air,True,Venmo,3.0,1.8571428571428572,2
+1691,40,Male,30,Nevada,2,True,M,Black,Free Shipping,True,Cash,3.2,15.0,2
+1695,20,Male,67,Mississippi,21,True,M,Turquoise,Express,True,Debit Card,2.7,3.1904761904761907,2
+1696,54,Male,95,Nebraska,2,True,S,Yellow,2-Day Shipping,True,PayPal,4.7,47.5,2
+1702,69,Male,41,Mississippi,45,True,XL,Blue,Next Day Air,True,Debit Card,3.8,0.9111111111111111,2
+1708,25,Male,81,Nevada,26,True,L,Maroon,2-Day Shipping,True,Cash,4.9,3.1153846153846154,2
+1712,21,Male,93,North Carolina,20,True,M,Lavender,Express,True,Credit Card,4.7,4.65,2
+1714,49,Male,22,Missouri,38,True,M,Pink,Free Shipping,True,PayPal,4.6,0.5789473684210527,2
+1719,54,Male,96,Maryland,15,True,L,Pink,2-Day Shipping,True,PayPal,3.4,6.4,2
+1723,46,Male,51,Massachusetts,15,True,L,Violet,Standard,True,Cash,3.3,3.4,2
+1726,45,Male,33,Massachusetts,33,True,M,Indigo,Next Day Air,True,Venmo,3.0,1.0,2
+1735,31,Male,98,Missouri,17,True,L,Brown,Next Day Air,True,PayPal,3.1,5.764705882352941,2
+1740,21,Male,98,Minnesota,24,True,L,Silver,Express,True,Cash,4.2,4.083333333333333,2
+1744,23,Male,72,Missouri,4,True,XL,Brown,Standard,True,Bank Transfer,3.3,18.0,2
+1745,57,Male,63,Michigan,24,True,L,Teal,Standard,True,PayPal,3.0,2.625,2
+1748,61,Male,23,New Hampshire,42,True,M,Yellow,Express,True,Venmo,2.9,0.5476190476190477,2
+1749,34,Male,93,Montana,42,True,L,Teal,2-Day Shipping,True,Bank Transfer,3.9,2.2142857142857144,2
+1751,31,Male,85,Missouri,39,True,M,White,Express,True,Venmo,3.1,2.1794871794871793,2
+1757,49,Male,55,New Hampshire,15,True,S,Cyan,Free Shipping,True,Bank Transfer,2.8,3.6666666666666665,2
+1758,19,Male,94,Michigan,49,True,L,Yellow,Standard,True,Debit Card,3.6,1.9183673469387754,2
+1761,20,Male,44,Minnesota,40,True,XL,Peach,Standard,True,PayPal,3.5,1.1,2
+1766,68,Male,88,New Mexico,42,True,M,Orange,2-Day Shipping,True,Venmo,4.1,2.0952380952380953,2
+1768,69,Male,89,Minnesota,47,True,L,Lavender,2-Day Shipping,True,Debit Card,3.8,1.8936170212765957,2
+1769,25,Male,45,Nebraska,3,True,M,Indigo,2-Day Shipping,True,PayPal,3.9,15.0,2
+1771,53,Male,22,Michigan,35,True,M,Pink,Express,True,Bank Transfer,4.3,0.6285714285714286,2
+1775,46,Male,78,New York,7,True,M,Lavender,Express,True,PayPal,3.7,11.142857142857142,2
+1778,18,Male,44,Minnesota,5,True,L,Purple,Free Shipping,True,Cash,4.7,8.8,2
+1788,20,Male,38,Montana,11,True,L,Gold,2-Day Shipping,True,Bank Transfer,4.9,3.4545454545454546,2
+1792,62,Male,98,Montana,39,True,S,Purple,Store Pickup,True,Cash,4.0,2.5128205128205128,2
+1801,22,Male,58,Mississippi,31,True,XL,Indigo,Express,True,Credit Card,2.7,1.8709677419354838,2
+1802,33,Male,57,New Jersey,49,True,M,Turquoise,Express,True,Debit Card,3.9,1.163265306122449,2
+1804,60,Male,97,New Hampshire,34,True,S,Gray,Free Shipping,True,Venmo,3.5,2.8529411764705883,2
+1805,30,Male,42,Louisiana,40,True,L,Peach,Next Day Air,True,Credit Card,4.4,1.05,2
+1811,41,Male,28,Maryland,17,True,M,Magenta,Standard,True,Cash,2.7,1.6470588235294117,2
+1813,50,Male,63,Nevada,19,True,S,Blue,Express,True,PayPal,4.9,3.3157894736842106,2
+1815,32,Male,92,Montana,25,True,M,White,Free Shipping,True,Cash,3.8,3.68,2
+1816,51,Male,72,New Mexico,49,True,L,White,2-Day Shipping,True,Credit Card,4.5,1.469387755102041,2
+1820,51,Male,86,Nevada,51,True,S,Peach,Next Day Air,True,Cash,4.5,1.6862745098039216,2
+1824,62,Male,50,Louisiana,41,True,L,Pink,Free Shipping,True,Bank Transfer,4.7,1.2195121951219512,2
+1829,33,Male,80,New Hampshire,46,True,L,Gray,Express,True,Cash,3.9,1.7391304347826086,2
+1838,41,Male,77,Montana,9,True,M,Beige,Free Shipping,True,Venmo,4.8,8.555555555555555,2
+1840,32,Male,78,Mississippi,33,True,XL,Purple,Store Pickup,True,Cash,3.7,2.3636363636363638,2
+1850,30,Male,40,New Mexico,36,True,M,Maroon,Store Pickup,True,Bank Transfer,4.5,1.1111111111111112,2
+1854,29,Male,67,North Dakota,12,True,XL,Olive,Express,True,PayPal,2.9,5.583333333333333,2
+1859,22,Male,69,Maine,9,True,S,Peach,2-Day Shipping,True,Debit Card,4.9,7.666666666666667,2
+1863,59,Male,36,New Hampshire,11,True,M,Turquoise,Express,True,PayPal,4.6,3.272727272727273,2
+1866,56,Male,62,Missouri,13,True,S,Silver,Store Pickup,True,Bank Transfer,3.8,4.769230769230769,2
+1881,34,Male,33,New Jersey,9,True,L,Yellow,2-Day Shipping,True,Debit Card,3.1,3.6666666666666665,2
+1882,58,Male,41,New Jersey,14,True,M,Red,Standard,True,Cash,4.3,2.9285714285714284,2
+1886,26,Male,53,Nevada,36,True,S,Maroon,Standard,True,Cash,4.4,1.4722222222222223,2
+1890,59,Male,57,North Carolina,28,True,L,Peach,Next Day Air,True,Bank Transfer,2.5,2.0357142857142856,2
+1892,69,Male,74,New Hampshire,49,True,M,Gray,Next Day Air,True,Debit Card,2.6,1.510204081632653,2
+1897,57,Male,51,Nevada,20,True,M,Gold,Standard,True,Venmo,2.9,2.55,2
+1900,32,Male,40,New York,43,True,L,Maroon,Store Pickup,True,PayPal,4.2,0.9302325581395349,2
+1903,31,Male,22,New Mexico,22,True,S,Olive,Store Pickup,True,Venmo,5.0,1.0,2
+1905,22,Male,71,Nevada,47,True,S,Silver,Free Shipping,True,Cash,4.2,1.5106382978723405,2
+1908,69,Male,74,New Mexico,37,True,L,Orange,Store Pickup,True,Credit Card,4.8,2.0,2
+1922,47,Male,36,Michigan,14,True,M,Green,Store Pickup,True,Venmo,3.5,2.5714285714285716,2
+1924,64,Male,36,Nebraska,8,True,XL,Blue,Standard,True,Cash,4.3,4.5,2
+1925,30,Male,63,Michigan,43,True,M,Gray,Free Shipping,True,PayPal,4.8,1.4651162790697674,2
+1927,66,Male,93,New Mexico,7,True,M,Silver,Express,True,PayPal,3.0,13.285714285714286,2
+1929,25,Male,92,Mississippi,11,True,S,Lavender,Standard,True,PayPal,3.7,8.363636363636363,2
+1934,48,Male,67,Montana,29,True,L,Violet,Next Day Air,True,Venmo,4.1,2.310344827586207,2
+1935,34,Male,43,Michigan,24,True,L,Gold,Free Shipping,True,Bank Transfer,2.7,1.7916666666666667,2
+1937,70,Male,60,Minnesota,45,True,S,Teal,2-Day Shipping,True,PayPal,4.3,1.3333333333333333,2
+1950,63,Male,80,Nebraska,13,True,L,Gray,Store Pickup,True,PayPal,4.7,6.153846153846154,2
+1956,50,Male,56,Maine,38,True,M,Pink,Express,True,Cash,4.9,1.4736842105263157,2
+1959,39,Male,67,Nevada,48,True,M,Gray,Store Pickup,True,Cash,2.7,1.3958333333333333,2
+1961,57,Male,72,Massachusetts,41,True,L,Red,2-Day Shipping,True,Credit Card,3.3,1.7560975609756098,2
+1962,47,Male,59,Nevada,46,True,L,Black,Free Shipping,True,Debit Card,2.6,1.2826086956521738,2
+1964,52,Male,30,Michigan,12,True,L,Pink,Standard,True,Credit Card,3.9,2.5,2
+1969,67,Male,70,Minnesota,26,True,S,Blue,Standard,True,Credit Card,4.2,2.6923076923076925,2
+1971,28,Male,94,Maryland,5,True,M,Indigo,Next Day Air,True,Credit Card,2.9,18.8,2
+1974,24,Male,20,Maryland,10,True,XL,Red,Standard,True,Venmo,4.5,2.0,2
+1979,45,Male,78,Massachusetts,2,True,L,Magenta,Store Pickup,True,Cash,3.8,39.0,2
+1982,69,Male,91,Michigan,43,True,L,Violet,Express,True,PayPal,4.7,2.116279069767442,2
+1992,46,Male,29,Missouri,2,True,M,Brown,Next Day Air,True,Venmo,3.7,14.5,2
+1993,33,Male,98,New Jersey,29,True,L,Gold,2-Day Shipping,True,Venmo,4.9,3.3793103448275863,2
+1995,33,Male,66,Nevada,25,True,M,Brown,Next Day Air,True,Credit Card,2.9,2.64,2
+1996,67,Male,80,Missouri,30,True,S,Teal,Standard,True,Debit Card,3.0,2.6666666666666665,2
+2003,31,Male,65,New York,20,True,M,Red,Express,True,PayPal,2.7,3.25,2
+2007,58,Male,97,New Mexico,3,True,S,Pink,Express,True,Credit Card,4.4,32.333333333333336,2
+2013,48,Male,53,Nevada,6,True,L,Green,Store Pickup,True,Cash,3.2,8.833333333333334,2
+2018,70,Male,32,Massachusetts,43,True,S,Green,Next Day Air,True,Bank Transfer,4.1,0.7441860465116279,2
+2022,62,Male,33,Maine,49,True,M,Green,Standard,True,Venmo,4.4,0.673469387755102,2
+2027,37,Male,35,Maine,46,True,M,Orange,Express,True,Bank Transfer,3.6,0.7608695652173914,2
+2028,50,Male,73,Nebraska,51,True,S,Gold,Standard,True,Credit Card,4.8,1.4313725490196079,2
+2030,25,Male,23,Montana,41,True,M,Pink,Next Day Air,True,PayPal,4.6,0.5609756097560976,2
+2031,66,Male,67,New Mexico,39,True,S,Green,Standard,True,Credit Card,2.8,1.7179487179487178,2
+2037,37,Male,63,Minnesota,47,True,S,Lavender,Next Day Air,True,Cash,3.1,1.3404255319148937,2
+2040,35,Male,51,Minnesota,32,True,M,Olive,Next Day Air,True,Debit Card,3.1,1.59375,2
+2042,66,Male,32,New York,15,True,S,Lavender,Next Day Air,True,PayPal,3.2,2.1333333333333333,2
+2045,49,Male,68,Missouri,18,True,L,Orange,Free Shipping,True,PayPal,3.0,3.7777777777777777,2
+2049,45,Male,64,Michigan,36,True,XL,Pink,Express,True,Bank Transfer,3.9,1.7777777777777777,2
+2051,35,Male,96,Mississippi,11,True,M,Teal,Store Pickup,True,Debit Card,3.4,8.727272727272727,2
+2053,45,Male,48,New Hampshire,31,True,M,Gray,2-Day Shipping,True,Bank Transfer,3.7,1.5483870967741935,2
+2055,65,Male,56,New Jersey,15,True,XL,Gold,Express,True,PayPal,2.9,3.7333333333333334,2
+2057,55,Male,46,Minnesota,30,True,L,Blue,2-Day Shipping,True,PayPal,4.4,1.5333333333333334,2
+2062,32,Male,70,Michigan,23,True,S,Magenta,Store Pickup,True,Debit Card,2.6,3.0434782608695654,2
+2071,56,Male,88,Nebraska,15,True,XL,Red,Express,True,Cash,3.1,5.866666666666666,2
+2078,64,Male,34,Nebraska,27,True,L,Orange,Free Shipping,True,Bank Transfer,3.3,1.2592592592592593,2
+2080,32,Male,24,Montana,17,True,L,Violet,Next Day Air,True,PayPal,3.1,1.411764705882353,2
+2084,41,Male,59,Mississippi,27,True,L,Orange,Store Pickup,True,Credit Card,2.7,2.185185185185185,2
+2086,69,Male,49,New York,39,True,M,Teal,Free Shipping,True,Debit Card,4.6,1.2564102564102564,2
+2090,37,Male,57,Maryland,42,True,L,Gold,Free Shipping,True,Credit Card,3.6,1.3571428571428572,2
+2091,51,Male,71,Massachusetts,22,True,S,Teal,Free Shipping,True,Debit Card,3.4,3.227272727272727,2
+2093,42,Male,45,Minnesota,28,True,M,Silver,Next Day Air,True,Bank Transfer,2.6,1.6071428571428572,2
+2096,36,Male,63,New Mexico,2,True,M,Gray,Store Pickup,True,Bank Transfer,4.0,31.5,2
+2101,68,Male,31,Michigan,37,True,M,Silver,Free Shipping,True,Cash,4.4,0.8378378378378378,2
+2105,53,Male,88,New Mexico,48,True,M,Gold,Free Shipping,True,Venmo,2.8,1.8333333333333333,2
+2111,52,Male,93,Montana,37,True,L,Cyan,Store Pickup,True,Debit Card,3.9,2.5135135135135136,2
+2112,41,Male,85,Missouri,16,True,XL,Pink,Free Shipping,True,Bank Transfer,2.6,5.3125,2
+2120,58,Male,57,Nebraska,37,True,M,Indigo,Store Pickup,True,Venmo,3.5,1.5405405405405406,2
+2121,53,Male,98,Missouri,39,True,S,Red,Next Day Air,True,PayPal,3.1,2.5128205128205128,2
+2124,54,Male,71,Nebraska,23,True,L,Cyan,Express,True,Debit Card,3.7,3.0869565217391304,2
+2130,40,Male,57,Minnesota,13,True,L,Orange,Store Pickup,True,PayPal,2.8,4.384615384615385,2
+2132,19,Male,52,Montana,10,True,M,Red,Express,True,Bank Transfer,3.6,5.2,2
+2134,21,Male,34,Maine,14,True,M,Olive,Standard,True,Bank Transfer,3.8,2.4285714285714284,2
+2137,47,Male,93,New York,26,True,M,Red,Standard,True,Bank Transfer,2.8,3.576923076923077,2
+2139,67,Male,42,Mississippi,37,True,M,Teal,Next Day Air,True,Venmo,2.8,1.135135135135135,2
+2140,40,Male,95,New York,34,True,M,Red,Free Shipping,True,Cash,3.0,2.7941176470588234,2
+2143,47,Male,39,North Dakota,22,True,M,Maroon,Next Day Air,True,Venmo,4.3,1.7727272727272727,2
+2145,47,Male,23,Maryland,26,True,L,Orange,Free Shipping,True,PayPal,3.7,0.8846153846153846,2
+2148,47,Male,43,Missouri,5,True,S,Charcoal,Standard,True,Cash,4.8,8.6,2
+2149,19,Male,45,Nebraska,20,True,XL,Turquoise,2-Day Shipping,True,PayPal,4.6,2.25,2
+2153,38,Male,48,New Jersey,44,True,L,Magenta,Next Day Air,True,Bank Transfer,4.5,1.0909090909090908,2
+2157,38,Male,83,Missouri,42,True,M,Maroon,Next Day Air,True,Debit Card,3.6,1.9761904761904763,2
+2158,41,Male,68,Mississippi,42,True,L,Turquoise,Next Day Air,True,Venmo,4.0,1.619047619047619,2
+2159,19,Male,84,Massachusetts,10,True,XL,Olive,Standard,True,Bank Transfer,4.6,8.4,2
+2160,18,Male,58,Louisiana,35,True,M,Peach,Free Shipping,True,Cash,3.0,1.6571428571428573,2
+2167,31,Male,88,New Jersey,51,True,S,Purple,Express,True,Credit Card,3.5,1.7254901960784315,2
+2172,39,Male,98,Missouri,10,True,M,Yellow,Store Pickup,True,Cash,4.6,9.8,2
+2176,68,Male,50,Nebraska,49,True,M,Silver,Free Shipping,True,Credit Card,3.3,1.0204081632653061,2
+2178,24,Male,93,Montana,10,True,XL,Green,Express,True,PayPal,3.0,9.3,2
+2183,42,Male,99,New Mexico,27,True,M,Maroon,Store Pickup,True,Venmo,2.7,3.6666666666666665,2
+2185,38,Male,34,Nevada,17,True,S,Gold,Free Shipping,True,PayPal,3.2,2.0,2
+2187,55,Male,23,New Mexico,7,True,XL,Teal,Next Day Air,True,PayPal,4.3,3.2857142857142856,2
+2199,57,Male,80,New York,36,True,L,Turquoise,Free Shipping,True,Venmo,3.5,2.2222222222222223,2
+2200,39,Male,47,North Carolina,41,True,M,Maroon,Store Pickup,True,Debit Card,4.9,1.146341463414634,2
+2208,69,Male,38,New Mexico,12,True,M,Gray,Next Day Air,True,Credit Card,2.9,3.1666666666666665,2
+2212,50,Male,89,Maine,46,True,L,Purple,Free Shipping,True,Debit Card,3.2,1.934782608695652,2
+2213,59,Male,77,Nebraska,23,True,M,Brown,Next Day Air,True,Bank Transfer,3.3,3.347826086956522,2
+2220,33,Male,91,Minnesota,17,True,S,Purple,Store Pickup,True,Bank Transfer,2.8,5.352941176470588,2
+2225,18,Male,25,Nebraska,39,True,L,Charcoal,Standard,True,Cash,4.3,0.6410256410256411,2
+2227,22,Male,72,Missouri,29,True,L,Blue,Store Pickup,True,Cash,4.8,2.4827586206896552,2
+2230,70,Male,97,Minnesota,51,True,M,Silver,Express,True,Venmo,3.9,1.9019607843137254,2
+2233,65,Male,64,North Carolina,15,True,L,Lavender,Store Pickup,True,Cash,4.0,4.266666666666667,2
+2235,35,Male,66,New Hampshire,27,True,S,Yellow,Express,True,Cash,4.0,2.4444444444444446,2
+2242,18,Male,77,Maryland,4,True,M,Purple,Free Shipping,True,Bank Transfer,3.5,19.25,2
+2243,18,Male,66,Nevada,6,True,M,Orange,Next Day Air,True,Credit Card,3.8,11.0,2
+2244,56,Male,21,Massachusetts,14,True,M,Teal,2-Day Shipping,True,Debit Card,3.7,1.5,2
+2253,48,Male,96,Nebraska,22,True,S,Maroon,Express,True,Bank Transfer,3.9,4.363636363636363,2
+2256,48,Male,39,Michigan,43,True,L,Teal,Store Pickup,True,Bank Transfer,4.6,0.9069767441860465,2
+2261,38,Male,82,Missouri,17,True,M,Blue,Express,True,PayPal,4.9,4.823529411764706,2
+2266,36,Male,94,Montana,11,True,XL,Yellow,Store Pickup,True,PayPal,3.9,8.545454545454545,2
+2267,20,Male,44,Missouri,33,True,M,Yellow,Store Pickup,True,Debit Card,4.3,1.3333333333333333,2
+2274,55,Male,96,New Mexico,14,True,L,Silver,Express,True,PayPal,4.8,6.857142857142857,2
+2275,57,Male,27,New York,39,True,L,Turquoise,Next Day Air,True,PayPal,4.5,0.6923076923076923,2
+2279,61,Male,25,Maryland,7,True,M,Maroon,Store Pickup,True,Cash,3.8,3.5714285714285716,2
+2286,34,Male,100,Michigan,39,True,L,Pink,2-Day Shipping,True,PayPal,4.6,2.5641025641025643,2
+2288,66,Male,45,Nebraska,7,True,L,Green,Store Pickup,True,Debit Card,3.0,6.428571428571429,2
+2290,70,Male,82,Nevada,48,True,M,Orange,Free Shipping,True,Venmo,4.1,1.7083333333333333,2
+2295,54,Male,95,Maryland,41,True,M,Red,Express,True,Debit Card,5.0,2.317073170731707,2
+2299,40,Male,87,Montana,11,True,L,Cyan,2-Day Shipping,True,Cash,2.9,7.909090909090909,2
+2303,36,Male,39,Montana,39,True,L,Pink,Store Pickup,True,Venmo,3.6,1.0,2
+2308,28,Male,96,Missouri,31,True,L,Green,Next Day Air,True,Debit Card,3.5,3.096774193548387,2
+2312,27,Male,28,Montana,11,True,L,Gold,2-Day Shipping,True,Bank Transfer,4.8,2.5454545454545454,2
+2317,28,Male,39,Montana,8,True,L,Yellow,Standard,True,Debit Card,3.8,4.875,2
+2318,47,Male,34,New Jersey,29,True,M,Purple,Next Day Air,True,Bank Transfer,4.7,1.1724137931034482,2
+2321,28,Male,55,New Mexico,10,True,M,Olive,Free Shipping,True,Debit Card,3.7,5.5,2
+2329,45,Male,36,North Dakota,30,True,M,Maroon,Express,True,Venmo,2.6,1.2,2
+2330,49,Male,97,Nebraska,43,True,S,Teal,Free Shipping,True,Bank Transfer,4.8,2.255813953488372,2
+2344,58,Male,49,Maryland,45,True,M,Red,2-Day Shipping,True,PayPal,4.4,1.0888888888888888,2
+2346,28,Male,32,New York,24,True,S,Orange,Express,True,Bank Transfer,3.3,1.3333333333333333,2
+2349,54,Male,84,Maine,17,True,M,Orange,Next Day Air,True,PayPal,4.9,4.9411764705882355,2
+2350,65,Male,34,New York,41,True,M,Orange,Standard,True,Credit Card,3.9,0.8292682926829268,2
+2352,38,Male,50,New Hampshire,26,True,S,Cyan,Store Pickup,True,PayPal,4.9,1.9230769230769231,2
+2353,70,Male,46,Nebraska,26,True,M,Yellow,Store Pickup,True,Bank Transfer,2.8,1.7692307692307692,2
+2354,56,Male,71,Montana,26,True,M,White,Standard,True,Debit Card,4.1,2.730769230769231,2
+2357,57,Male,58,Montana,28,True,M,Gray,Free Shipping,True,Debit Card,3.0,2.0714285714285716,2
+2358,53,Male,67,Michigan,41,True,L,Cyan,2-Day Shipping,True,Credit Card,4.2,1.6341463414634145,2
+2361,49,Male,80,New York,28,True,L,Silver,2-Day Shipping,True,Venmo,4.7,2.857142857142857,2
+2365,62,Male,60,Mississippi,5,True,L,Maroon,Free Shipping,True,PayPal,4.2,12.0,2
+2369,29,Male,38,New Jersey,7,True,M,Lavender,Standard,True,Debit Card,3.3,5.428571428571429,2
+2374,37,Male,20,Michigan,22,True,M,Gray,Express,True,Debit Card,4.9,0.9090909090909091,2
+2379,26,Male,71,New Hampshire,38,True,L,Teal,Store Pickup,True,PayPal,2.7,1.868421052631579,2
+2393,40,Male,62,Missouri,37,True,L,Silver,2-Day Shipping,True,Cash,2.6,1.6756756756756757,2
+2404,64,Male,22,Missouri,41,True,M,Magenta,Standard,True,Debit Card,4.4,0.5365853658536586,2
+2417,59,Male,83,Nebraska,27,True,S,Black,Next Day Air,True,Credit Card,4.0,3.074074074074074,2
+2419,22,Male,69,Michigan,48,True,S,Indigo,Next Day Air,True,Cash,4.0,1.4375,2
+2422,37,Male,46,Minnesota,3,True,L,Pink,Standard,True,Debit Card,4.6,15.333333333333334,2
+2426,58,Male,49,North Dakota,35,True,S,Olive,2-Day Shipping,True,Bank Transfer,3.0,1.4,2
+2451,68,Male,76,North Carolina,8,True,M,Magenta,Standard,True,Venmo,4.5,9.5,2
+2453,68,Male,67,New York,46,True,L,Purple,Express,True,Bank Transfer,4.1,1.4565217391304348,2
+2457,59,Male,83,Nebraska,6,True,M,Green,2-Day Shipping,True,PayPal,3.3,13.833333333333334,2
+2460,47,Male,36,Missouri,15,True,L,Violet,2-Day Shipping,True,Cash,4.3,2.4,2
+2461,58,Male,36,Maine,29,True,S,Lavender,Store Pickup,True,Credit Card,4.0,1.2413793103448276,2
+2463,68,Male,99,Missouri,32,True,XL,Orange,Standard,True,Bank Transfer,4.3,3.09375,2
+2464,60,Male,21,Mississippi,26,True,XL,Indigo,Standard,True,Cash,3.3,0.8076923076923077,2
+2468,27,Male,72,New Jersey,29,True,M,Lavender,Express,True,Credit Card,3.6,2.4827586206896552,2
+2475,23,Male,76,North Carolina,20,True,M,Olive,Store Pickup,True,Bank Transfer,3.2,3.8,2
+2482,41,Male,92,New Jersey,36,True,XL,Cyan,Free Shipping,True,Debit Card,2.9,2.5555555555555554,2
+2485,60,Male,97,New Hampshire,51,True,M,Green,2-Day Shipping,True,Cash,4.8,1.9019607843137254,2
+2488,57,Male,21,Montana,17,True,L,Violet,Next Day Air,True,PayPal,3.0,1.2352941176470589,2
+2489,56,Male,82,New Hampshire,31,True,XL,Charcoal,Express,True,PayPal,4.4,2.6451612903225805,2
+2491,52,Male,78,Montana,6,True,M,Gray,Free Shipping,True,Cash,4.0,13.0,2
+2492,63,Male,47,North Carolina,16,True,M,Magenta,Express,True,Bank Transfer,2.5,2.9375,2
+2496,40,Male,37,Nebraska,35,True,XL,Orange,Free Shipping,True,Credit Card,3.1,1.0571428571428572,2
+2499,18,Male,39,Massachusetts,39,True,S,Green,Next Day Air,True,Cash,2.6,1.0,2
+2500,52,Male,73,Louisiana,3,True,L,Pink,Next Day Air,True,Cash,3.1,24.333333333333332,2
+2501,59,Male,84,Massachusetts,33,True,M,Violet,Store Pickup,True,Cash,2.9,2.5454545454545454,2
+2507,57,Male,82,New York,20,True,XL,Orange,Free Shipping,True,Venmo,4.4,4.1,2
+2520,40,Male,90,Michigan,22,True,L,Magenta,Standard,True,Credit Card,4.9,4.090909090909091,2
+2522,29,Male,33,Minnesota,19,True,M,Magenta,Standard,True,PayPal,4.4,1.736842105263158,2
+2523,20,Male,53,Massachusetts,21,True,S,Olive,2-Day Shipping,True,Debit Card,2.5,2.5238095238095237,2
+2524,43,Male,24,New Jersey,22,True,S,Cyan,Express,True,Bank Transfer,3.4,1.0909090909090908,2
+2531,25,Male,98,Massachusetts,29,True,S,Cyan,Free Shipping,True,Debit Card,3.6,3.3793103448275863,2
+2533,55,Male,86,Nebraska,5,True,S,Charcoal,Next Day Air,True,Debit Card,2.6,17.2,2
+2538,44,Male,49,Maine,31,True,M,Purple,2-Day Shipping,True,PayPal,4.1,1.5806451612903225,2
+2539,18,Male,32,New Jersey,34,True,M,Silver,Next Day Air,True,Credit Card,4.2,0.9411764705882353,2
+2540,33,Male,73,Massachusetts,25,True,M,Purple,Next Day Air,True,Cash,4.1,2.92,2
+2541,24,Male,42,New Jersey,12,True,M,Charcoal,Free Shipping,True,Debit Card,3.9,3.5,2
+2548,47,Male,97,Mississippi,17,True,M,Beige,2-Day Shipping,True,Cash,3.2,5.705882352941177,2
+2551,53,Male,52,New Hampshire,31,True,XL,Peach,Store Pickup,True,Debit Card,3.0,1.6774193548387097,2
+2552,29,Male,32,Minnesota,41,True,M,Maroon,Next Day Air,True,Debit Card,4.1,0.7804878048780488,2
+2553,61,Male,48,Maryland,14,True,XL,Purple,2-Day Shipping,True,Credit Card,3.2,3.4285714285714284,2
+2557,24,Male,88,Montana,5,True,XL,Magenta,Standard,True,Bank Transfer,3.1,17.6,2
+2560,48,Male,71,Mississippi,22,True,S,Green,Free Shipping,True,Debit Card,4.0,3.227272727272727,2
+2562,32,Male,20,New York,23,True,L,Magenta,Free Shipping,True,Debit Card,2.7,0.8695652173913043,2
+2564,69,Male,81,Massachusetts,2,True,XL,Gray,Standard,True,Venmo,4.5,40.5,2
+2567,35,Male,38,Missouri,44,True,S,Yellow,Standard,True,PayPal,3.3,0.8636363636363636,2
+2568,19,Male,25,Michigan,25,True,XL,Gold,Store Pickup,True,Cash,4.3,1.0,2
+2571,36,Male,27,New Mexico,13,True,XL,Olive,Store Pickup,True,PayPal,4.0,2.076923076923077,2
+2572,45,Male,27,Mississippi,49,True,L,Black,Standard,True,Cash,3.5,0.5510204081632653,2
+2574,54,Male,90,New Mexico,2,True,M,Red,Store Pickup,True,Bank Transfer,4.4,45.0,2
+2576,53,Male,96,Minnesota,10,True,M,Silver,Express,True,PayPal,4.0,9.6,2
+2577,20,Male,40,New Hampshire,20,True,M,Silver,Free Shipping,True,Debit Card,4.2,2.0,2
+2578,52,Male,39,Minnesota,38,True,L,Black,Next Day Air,True,Bank Transfer,4.5,1.0263157894736843,2
+2580,65,Male,20,Minnesota,41,True,M,Purple,Express,True,Venmo,3.7,0.4878048780487805,2
+2581,43,Male,29,Massachusetts,14,True,S,Turquoise,Store Pickup,True,Bank Transfer,3.6,2.0714285714285716,2
+2592,40,Male,61,New Mexico,41,True,S,Olive,Express,True,Cash,3.3,1.4878048780487805,2
+2595,59,Male,81,Montana,26,True,L,Indigo,Free Shipping,True,Cash,3.6,3.1153846153846154,2
+2599,64,Male,86,Nevada,32,True,XL,Olive,Express,True,Debit Card,3.3,2.6875,2
+2602,61,Male,33,Mississippi,44,True,L,Orange,Store Pickup,True,Cash,2.9,0.75,2
+2606,41,Male,93,Nevada,33,True,M,White,2-Day Shipping,True,Venmo,3.7,2.8181818181818183,2
+2607,68,Male,98,Nevada,47,True,L,Turquoise,Standard,True,Bank Transfer,4.7,2.0851063829787235,2
+2609,42,Male,68,Mississippi,49,True,L,Orange,2-Day Shipping,True,Credit Card,4.2,1.3877551020408163,2
+2612,33,Male,99,Michigan,5,True,L,Maroon,2-Day Shipping,True,Cash,4.2,19.8,2
+2623,63,Male,75,New Hampshire,16,True,M,Yellow,2-Day Shipping,True,Credit Card,4.9,4.6875,2
+2624,49,Male,76,Massachusetts,39,True,M,Gold,Next Day Air,True,Cash,4.8,1.9487179487179487,2
+2628,66,Male,26,Missouri,41,True,L,Silver,Next Day Air,True,Bank Transfer,3.6,0.6341463414634146,2
+2630,61,Male,44,New Hampshire,26,True,M,Peach,Free Shipping,True,Venmo,3.8,1.6923076923076923,2
+2631,29,Male,82,Maine,21,True,S,Pink,Free Shipping,True,Cash,4.2,3.9047619047619047,2
+2640,18,Male,35,New Hampshire,34,True,XL,Pink,Free Shipping,True,Debit Card,2.6,1.0294117647058822,2
+2644,49,Male,41,Maryland,38,True,S,Silver,Next Day Air,True,Cash,2.9,1.0789473684210527,2
+2645,25,Male,83,New Mexico,5,True,M,Turquoise,Standard,True,Bank Transfer,3.3,16.6,2
+2646,23,Male,81,Louisiana,25,True,L,Olive,Store Pickup,True,Bank Transfer,4.0,3.24,2
+2647,33,Male,56,New Mexico,5,True,S,Lavender,Next Day Air,True,Debit Card,3.9,11.2,2
+2650,23,Male,21,Minnesota,15,True,M,Magenta,Store Pickup,True,Bank Transfer,3.9,1.4,2
+2662,43,Female,96,Michigan,21,True,XL,Olive,Express,True,Bank Transfer,4.8,4.571428571428571,2
+2663,25,Female,98,Nebraska,45,True,M,Cyan,2-Day Shipping,True,PayPal,2.8,2.1777777777777776,2
+2668,48,Female,47,Maryland,32,True,M,Orange,Free Shipping,True,Cash,4.1,1.46875,2
+2674,67,Female,21,Nevada,5,True,M,Olive,2-Day Shipping,True,Cash,2.6,4.2,2
+2677,43,Female,77,Kentucky,4,True,M,Maroon,Free Shipping,True,Cash,3.6,19.25,2
+2679,33,Female,91,Montana,35,True,M,Magenta,2-Day Shipping,True,Credit Card,3.4,2.6,2
+2680,53,Female,68,Montana,8,True,S,Yellow,Express,True,Debit Card,3.8,8.5,2
+2681,44,Female,37,Nebraska,22,True,L,Indigo,Next Day Air,True,Venmo,3.3,1.6818181818181819,2
+2682,23,Female,23,Massachusetts,18,True,L,Olive,Standard,True,Debit Card,4.8,1.2777777777777777,2
+2683,59,Female,65,North Carolina,6,True,L,Maroon,2-Day Shipping,True,Venmo,3.9,10.833333333333334,2
+2684,68,Female,30,Montana,22,True,M,Indigo,Next Day Air,True,Cash,4.2,1.3636363636363635,2
+2691,44,Female,32,New Mexico,19,True,L,Yellow,Free Shipping,True,Bank Transfer,4.7,1.6842105263157894,2
+2692,43,Female,25,Nebraska,49,True,L,Blue,2-Day Shipping,True,Cash,3.3,0.5102040816326531,2
+2695,66,Female,27,Louisiana,35,True,M,Olive,Express,True,Credit Card,4.9,0.7714285714285715,2
+2708,32,Female,88,Nebraska,20,True,M,Pink,Standard,True,Cash,4.2,4.4,2
+2712,30,Female,22,Nebraska,51,True,L,Red,Standard,True,Venmo,4.0,0.43137254901960786,2
+2714,19,Female,57,Mississippi,21,True,M,Magenta,2-Day Shipping,True,Debit Card,3.8,2.7142857142857144,2
+2716,25,Female,92,Mississippi,30,True,XL,Pink,Express,True,PayPal,4.1,3.066666666666667,2
+2718,18,Female,62,Nebraska,20,True,XL,Beige,Free Shipping,True,Credit Card,4.3,3.1,2
+2720,69,Female,82,Louisiana,5,True,S,Peach,Free Shipping,True,Bank Transfer,4.2,16.4,2
+2721,55,Female,52,Maryland,46,True,M,Peach,Store Pickup,True,Bank Transfer,2.8,1.1304347826086956,2
+2722,19,Female,70,Minnesota,18,True,S,Teal,Free Shipping,True,PayPal,4.9,3.888888888888889,2
+2723,23,Female,83,Maine,23,True,M,Green,2-Day Shipping,True,PayPal,2.8,3.608695652173913,2
+2725,52,Female,91,Missouri,12,True,M,Brown,Next Day Air,True,Debit Card,2.5,7.583333333333333,2
+2726,64,Female,99,Mississippi,5,True,S,Violet,Free Shipping,True,Debit Card,2.7,19.8,2
+2727,33,Female,92,Michigan,12,True,L,Blue,Free Shipping,True,PayPal,3.3,7.666666666666667,2
+2730,31,Female,71,Montana,33,True,S,Violet,Free Shipping,True,Credit Card,4.1,2.1515151515151514,2
+2734,31,Female,83,North Carolina,47,True,M,Magenta,Express,True,PayPal,4.7,1.7659574468085106,2
+2737,44,Female,25,Montana,46,True,M,Pink,Store Pickup,True,Credit Card,4.8,0.5434782608695652,2
+2746,28,Female,98,Michigan,45,True,M,Magenta,Standard,True,PayPal,4.1,2.1777777777777776,2
+2752,27,Female,52,Minnesota,51,True,S,Indigo,Free Shipping,True,Venmo,3.1,1.0196078431372548,2
+2755,59,Female,61,New Jersey,22,True,L,Gold,Free Shipping,True,Venmo,3.6,2.772727272727273,2
+2756,59,Female,97,Nevada,19,True,M,Indigo,Store Pickup,True,Credit Card,3.3,5.105263157894737,2
+2757,42,Female,23,Minnesota,42,True,L,Violet,Free Shipping,True,PayPal,4.1,0.5476190476190477,2
+2762,31,Female,82,Michigan,4,True,M,Purple,Next Day Air,True,Credit Card,3.4,20.5,2
+2771,50,Female,44,Nebraska,23,True,S,Blue,Express,True,Bank Transfer,3.3,1.9130434782608696,2
+2776,37,Female,25,Montana,17,True,L,Red,Free Shipping,True,Debit Card,3.6,1.4705882352941178,2
+2780,61,Female,66,Montana,15,True,L,Blue,Express,True,Credit Card,4.3,4.4,2
+2782,65,Female,39,Mississippi,34,True,M,Blue,Standard,True,PayPal,4.6,1.1470588235294117,2
+2790,28,Female,85,North Carolina,29,True,L,Orange,Express,True,Credit Card,5.0,2.9310344827586206,2
+2794,37,Female,57,Massachusetts,28,True,M,Silver,Standard,True,Debit Card,3.1,2.0357142857142856,2
+2796,33,Female,35,Nebraska,50,True,M,Magenta,Store Pickup,True,PayPal,3.4,0.7,2
+2800,23,Female,89,Maine,10,True,L,Pink,Free Shipping,True,Bank Transfer,3.9,8.9,2
+2802,64,Female,56,New Mexico,31,True,M,Indigo,Express,True,PayPal,2.6,1.8064516129032258,2
+2806,18,Female,97,Nevada,49,True,S,Black,Standard,True,Cash,4.3,1.9795918367346939,2
+2815,31,Female,32,Minnesota,15,True,L,Gold,Standard,True,Bank Transfer,3.6,2.1333333333333333,2
+2833,29,Female,37,Maryland,41,True,M,Magenta,Standard,True,PayPal,4.6,0.9024390243902439,2
+2845,32,Female,79,New Mexico,43,True,M,Indigo,Standard,True,Venmo,4.4,1.8372093023255813,2
+2850,56,Female,25,New Hampshire,28,True,M,Gold,Express,True,PayPal,4.1,0.8928571428571429,2
+2851,57,Female,79,Nebraska,37,True,M,Silver,Store Pickup,True,Debit Card,3.0,2.135135135135135,2
+2852,58,Female,73,Nevada,43,True,L,Teal,Store Pickup,True,Debit Card,3.0,1.697674418604651,2
+2853,40,Female,71,New York,31,True,M,Magenta,Store Pickup,True,Venmo,3.0,2.2903225806451615,2
+2856,29,Female,95,Mississippi,34,True,S,Maroon,2-Day Shipping,True,PayPal,3.8,2.7941176470588234,2
+2859,34,Female,87,Maryland,47,True,L,Teal,2-Day Shipping,True,Bank Transfer,3.8,1.851063829787234,2
+2862,66,Female,54,Maryland,28,True,M,Teal,Free Shipping,True,Credit Card,3.4,1.9285714285714286,2
+2874,44,Female,40,Montana,9,True,M,Teal,Free Shipping,True,Bank Transfer,2.6,4.444444444444445,2
+2878,32,Female,46,New Jersey,35,True,M,Silver,Standard,True,Venmo,3.6,1.3142857142857143,2
+2886,29,Female,82,Nevada,15,True,M,Yellow,Next Day Air,True,Credit Card,3.5,5.466666666666667,2
+2890,64,Female,43,Minnesota,22,True,M,Charcoal,Store Pickup,True,Venmo,3.3,1.9545454545454546,2
+2893,22,Female,39,Nevada,48,True,M,Teal,Standard,True,Credit Card,3.2,0.8125,2
+2896,56,Female,86,Montana,30,True,L,Green,Standard,True,Bank Transfer,4.6,2.8666666666666667,2
+2898,43,Female,59,Montana,3,True,L,Violet,Free Shipping,True,Cash,2.5,19.666666666666668,2
+2899,23,Female,33,New Jersey,30,True,XL,Peach,Express,True,Credit Card,4.6,1.1,2
+2900,50,Female,64,Nebraska,23,True,M,Gold,2-Day Shipping,True,Bank Transfer,4.2,2.782608695652174,2
+2901,41,Female,67,Maryland,24,True,XL,Violet,Standard,True,Cash,4.0,2.7916666666666665,2
+2903,27,Female,32,North Carolina,20,True,S,Orange,Standard,True,PayPal,4.6,1.6,2
+2908,19,Female,82,Maryland,51,True,XL,Lavender,Next Day Air,True,PayPal,3.7,1.607843137254902,2
+2911,32,Female,32,Mississippi,42,True,M,Blue,Store Pickup,True,Credit Card,2.9,0.7619047619047619,2
+2920,64,Female,67,Minnesota,32,True,L,Charcoal,Standard,True,Debit Card,3.8,2.09375,2
+2927,64,Female,82,Maryland,10,True,M,Gray,2-Day Shipping,True,Cash,4.8,8.2,2
+2928,45,Female,24,Missouri,16,True,M,Black,Express,True,Venmo,2.7,1.5,2
+2931,38,Female,50,Mississippi,15,True,M,Orange,Free Shipping,True,Venmo,4.0,3.3333333333333335,2
+2948,52,Female,63,Nebraska,51,True,L,Peach,Standard,True,Venmo,4.4,1.2352941176470589,2
+2954,45,Female,82,Maryland,12,True,M,Silver,Next Day Air,True,Credit Card,4.8,6.833333333333333,2
+2957,52,Female,88,Montana,31,True,M,Olive,Standard,True,Venmo,3.7,2.838709677419355,2
+2962,33,Female,43,New Hampshire,22,True,S,Gold,Free Shipping,True,Debit Card,2.8,1.9545454545454546,2
+2973,31,Female,39,New York,12,True,S,Indigo,Free Shipping,True,Venmo,4.2,3.25,2
+2977,30,Female,97,Nebraska,29,True,M,Silver,Express,True,Cash,2.8,3.3448275862068964,2
+2980,31,Female,91,Louisiana,15,True,L,Olive,Next Day Air,True,PayPal,2.6,6.066666666666666,2
+2981,70,Female,93,New Jersey,10,True,L,Teal,2-Day Shipping,True,Bank Transfer,4.4,9.3,2
+2989,69,Female,55,Nevada,32,True,S,Pink,2-Day Shipping,True,Debit Card,5.0,1.71875,2
+2995,69,Female,100,Nevada,15,True,S,White,Store Pickup,True,Bank Transfer,3.5,6.666666666666667,2
+3000,31,Female,48,New Hampshire,11,True,S,Charcoal,Standard,True,Cash,3.8,4.363636363636363,2
+3002,29,Female,29,Montana,29,True,L,Charcoal,Express,True,Credit Card,4.7,1.0,2
+3003,70,Female,29,Louisiana,20,True,M,Maroon,Next Day Air,True,Bank Transfer,3.6,1.45,2
+3008,23,Female,60,New York,32,True,L,Lavender,Next Day Air,True,Venmo,3.0,1.875,2
+3009,39,Female,86,New Mexico,20,True,M,Gold,Free Shipping,True,PayPal,4.9,4.3,2
+3012,20,Female,70,Nevada,19,True,S,Brown,Next Day Air,True,Credit Card,3.0,3.6842105263157894,2
+3026,40,Female,60,Montana,8,True,XL,Green,Store Pickup,True,PayPal,3.4,7.5,2
+3031,43,Female,24,Maryland,24,True,XL,Purple,2-Day Shipping,True,Credit Card,2.6,1.0,2
+3041,18,Female,32,Nebraska,11,True,M,Gold,Express,True,Cash,4.1,2.909090909090909,2
+3045,21,Female,67,North Carolina,11,True,M,Magenta,Free Shipping,True,Bank Transfer,2.7,6.090909090909091,2
+3053,48,Female,38,Maine,8,True,XL,Olive,Store Pickup,True,Bank Transfer,4.5,4.75,2
+3055,42,Female,70,New Hampshire,35,True,S,Magenta,2-Day Shipping,True,Venmo,4.9,2.0,2
+3060,46,Female,71,Kentucky,43,True,L,Maroon,Express,True,Credit Card,3.2,1.6511627906976745,2
+3067,58,Female,48,Michigan,14,True,L,Teal,Free Shipping,True,Venmo,4.3,3.4285714285714284,2
+3068,70,Female,22,Missouri,3,True,S,Gray,Free Shipping,True,Cash,3.5,7.333333333333333,2
+3072,23,Female,41,New Hampshire,7,True,L,Turquoise,Next Day Air,True,PayPal,3.4,5.857142857142857,2
+3073,26,Female,98,New York,47,True,L,Peach,Standard,True,PayPal,3.1,2.0851063829787235,2
+3075,26,Female,55,Massachusetts,35,True,L,Maroon,Next Day Air,True,Debit Card,4.2,1.5714285714285714,2
+3077,66,Female,46,New Hampshire,14,True,M,Blue,Express,True,Venmo,3.6,3.2857142857142856,2
+3086,24,Female,50,Nevada,11,True,L,Gray,Store Pickup,True,Venmo,2.8,4.545454545454546,2
+3092,68,Female,81,Nevada,47,True,L,Orange,2-Day Shipping,True,Credit Card,3.4,1.7234042553191489,2
+3096,62,Female,53,Minnesota,14,True,S,Beige,Standard,True,Venmo,3.4,3.7857142857142856,2
+3100,42,Female,98,Michigan,22,True,S,Maroon,Free Shipping,True,Bank Transfer,2.9,4.454545454545454,2
+3114,46,Female,93,Nebraska,3,True,L,Green,Express,True,Debit Card,2.6,31.0,2
+3117,50,Female,66,Montana,2,True,L,Gray,Store Pickup,True,Venmo,3.7,33.0,2
+3121,46,Female,76,Louisiana,33,True,M,Magenta,Store Pickup,True,Debit Card,4.0,2.303030303030303,2
+3127,57,Female,76,Maine,29,True,L,Lavender,Store Pickup,True,Bank Transfer,2.6,2.6206896551724137,2
+3132,34,Female,59,North Dakota,12,True,M,Peach,Store Pickup,True,Bank Transfer,2.9,4.916666666666667,2
+3133,33,Female,97,Michigan,27,True,M,Yellow,Express,True,Cash,4.2,3.5925925925925926,2
+3137,58,Female,32,Minnesota,30,True,M,Gray,Next Day Air,True,Cash,3.1,1.0666666666666667,2
+3142,36,Female,30,Mississippi,48,True,S,Peach,Express,True,Credit Card,4.9,0.625,2
+3150,18,Female,40,North Carolina,10,True,M,Lavender,Free Shipping,True,Venmo,4.6,4.0,2
+3152,52,Female,64,New Mexico,48,True,L,Orange,2-Day Shipping,True,Bank Transfer,3.1,1.3333333333333333,2
+3153,49,Female,90,North Carolina,18,True,M,Red,Store Pickup,True,PayPal,3.1,5.0,2
+3156,22,Female,90,Montana,35,True,M,Brown,Free Shipping,True,Cash,4.3,2.5714285714285716,2
+3157,18,Female,50,Montana,19,True,M,Black,2-Day Shipping,True,Cash,3.1,2.6315789473684212,2
+3158,21,Female,34,Maine,6,True,L,Red,Store Pickup,True,Debit Card,3.1,5.666666666666667,2
+3159,30,Female,77,Mississippi,45,True,M,Gray,2-Day Shipping,True,Credit Card,4.9,1.711111111111111,2
+3160,62,Female,89,Louisiana,5,True,L,Pink,Store Pickup,True,Bank Transfer,2.9,17.8,2
+3161,28,Female,87,Nebraska,38,True,XL,Turquoise,Next Day Air,True,Cash,3.8,2.289473684210526,2
+3162,66,Female,77,Massachusetts,44,True,S,Charcoal,2-Day Shipping,True,Cash,4.2,1.75,2
+3164,49,Female,66,Nebraska,37,True,XL,Turquoise,Express,True,Cash,2.8,1.7837837837837838,2
+3169,31,Female,24,Montana,15,True,M,Orange,2-Day Shipping,True,PayPal,2.9,1.6,2
+3173,57,Female,52,Missouri,31,True,M,Olive,Standard,True,Debit Card,3.7,1.6774193548387097,2
+3178,55,Female,52,Missouri,32,True,L,Beige,Standard,True,Credit Card,3.2,1.625,2
+3181,18,Female,88,Montana,47,True,L,Turquoise,Standard,True,PayPal,3.8,1.872340425531915,2
+3182,31,Female,51,Montana,28,True,M,Charcoal,Free Shipping,True,PayPal,4.4,1.8214285714285714,2
+3184,50,Female,56,Mississippi,15,True,M,Green,Standard,True,Cash,3.5,3.7333333333333334,2
+3192,62,Female,68,Mississippi,43,True,XL,Maroon,Store Pickup,True,Credit Card,4.7,1.5813953488372092,2
+3195,43,Female,52,Maryland,11,True,L,Gold,Standard,True,Credit Card,4.6,4.7272727272727275,2
+3196,68,Female,58,Missouri,37,True,S,Red,Next Day Air,True,Credit Card,4.9,1.5675675675675675,2
+3200,59,Female,40,Maine,17,True,XL,Pink,Express,True,PayPal,4.2,2.3529411764705883,2
+3201,67,Female,24,Missouri,33,True,L,Black,Free Shipping,True,Credit Card,4.8,0.7272727272727273,2
+3204,63,Female,29,New Jersey,15,True,L,Teal,Express,True,Venmo,4.1,1.9333333333333333,2
+3205,57,Female,92,New Mexico,24,True,XL,Lavender,Free Shipping,True,Debit Card,4.3,3.8333333333333335,2
+3211,30,Female,67,Nevada,44,True,M,Magenta,Express,True,Venmo,2.9,1.5227272727272727,2
+3222,21,Female,76,New Hampshire,29,True,M,Yellow,Standard,True,Cash,3.2,2.6206896551724137,2
+3224,68,Female,65,Montana,37,True,S,Gray,Standard,True,Venmo,3.9,1.7567567567567568,2
+3226,53,Female,98,New Hampshire,32,True,M,Pink,Store Pickup,True,Credit Card,3.0,3.0625,2
+3227,57,Female,71,Minnesota,39,True,XL,Beige,Next Day Air,True,Bank Transfer,3.3,1.8205128205128205,2
+3232,62,Female,97,Nevada,10,True,M,Maroon,Free Shipping,True,Credit Card,4.4,9.7,2
+3233,45,Female,34,Massachusetts,20,True,M,White,Next Day Air,True,Bank Transfer,4.0,1.7,2
+3247,70,Female,98,Michigan,38,True,M,Magenta,Store Pickup,True,Cash,2.9,2.5789473684210527,2
+3251,23,Female,90,Minnesota,16,True,M,Teal,2-Day Shipping,True,Venmo,2.9,5.625,2
+3252,25,Female,20,Nevada,40,True,M,Gold,Standard,True,Venmo,3.7,0.5,2
+3253,69,Female,21,Montana,49,True,L,Brown,Store Pickup,True,Credit Card,2.7,0.42857142857142855,2
+3254,36,Female,60,Nebraska,9,True,M,Brown,2-Day Shipping,True,Venmo,3.2,6.666666666666667,2
+3258,44,Female,98,Minnesota,40,True,M,Brown,Express,True,Venmo,3.3,2.45,2
+3259,31,Female,51,New Jersey,12,True,M,Magenta,Express,True,Credit Card,4.3,4.25,2
+3272,35,Female,55,Nevada,31,True,XL,Magenta,Standard,True,Credit Card,4.4,1.7741935483870968,2
+3274,58,Female,45,Nevada,35,True,S,Orange,Free Shipping,True,PayPal,2.6,1.2857142857142858,2
+3279,59,Female,70,Montana,19,True,M,Black,2-Day Shipping,True,Bank Transfer,3.3,3.6842105263157894,2
+3281,45,Female,57,New York,6,True,L,Red,Next Day Air,True,PayPal,2.7,9.5,2
+3284,47,Female,24,North Carolina,11,True,L,Purple,Express,True,Debit Card,2.9,2.1818181818181817,2
+3290,31,Female,50,Montana,17,True,M,Maroon,2-Day Shipping,True,Venmo,4.0,2.9411764705882355,2
+3292,29,Female,51,New Mexico,12,True,L,Olive,2-Day Shipping,True,Cash,2.6,4.25,2
+3293,62,Female,23,Missouri,19,True,L,Gray,Standard,True,Bank Transfer,4.9,1.2105263157894737,2
+3304,20,Female,60,Mississippi,5,True,S,Turquoise,Next Day Air,True,Credit Card,3.4,12.0,2
+3305,30,Female,79,Mississippi,37,True,XL,Orange,Next Day Air,True,Bank Transfer,4.8,2.135135135135135,2
+3306,34,Female,41,Nebraska,32,True,L,Cyan,Standard,True,PayPal,4.9,1.28125,2
+3317,42,Female,45,New Mexico,6,True,M,Olive,Free Shipping,True,Debit Card,3.1,7.5,2
+3318,21,Female,67,North Carolina,31,True,XL,Pink,Standard,True,Cash,4.7,2.161290322580645,2
+3319,45,Female,46,North Dakota,16,True,M,Olive,Free Shipping,True,PayPal,3.9,2.875,2
+3325,37,Female,32,Missouri,42,True,S,Red,Standard,True,Venmo,3.3,0.7619047619047619,2
+3330,34,Female,54,New Jersey,2,True,M,Gray,Express,True,Debit Card,3.8,27.0,2
+3331,38,Female,96,Missouri,42,True,M,Black,2-Day Shipping,True,Bank Transfer,3.2,2.2857142857142856,2
+3334,55,Female,35,Minnesota,4,True,M,Violet,Express,True,PayPal,4.2,8.75,2
+3337,39,Female,45,Montana,25,True,M,Brown,Free Shipping,True,Debit Card,4.0,1.8,2
+3339,29,Female,94,Minnesota,47,True,L,White,2-Day Shipping,True,Credit Card,2.9,2.0,2
+3340,20,Female,99,Nebraska,36,True,M,Cyan,Store Pickup,True,Cash,3.6,2.75,2
+3343,66,Female,81,New Jersey,46,True,M,Violet,Free Shipping,True,Credit Card,3.8,1.7608695652173914,2
+3349,28,Female,74,New Hampshire,16,True,L,Gray,Standard,True,Cash,2.8,4.625,2
+3351,45,Female,33,Mississippi,16,True,S,Olive,2-Day Shipping,True,Cash,4.9,2.0625,2
+3352,43,Female,49,New Hampshire,19,True,L,Cyan,2-Day Shipping,True,Bank Transfer,4.2,2.5789473684210527,2
+3355,42,Female,45,Maryland,16,True,M,Orange,Next Day Air,True,PayPal,2.8,2.8125,2
+3360,43,Female,74,New Hampshire,30,True,L,Red,Next Day Air,True,Debit Card,3.9,2.466666666666667,2
+3361,22,Female,81,Minnesota,48,True,M,Maroon,2-Day Shipping,True,Cash,3.3,1.6875,2
+3367,38,Female,65,North Carolina,48,True,M,Red,2-Day Shipping,True,Debit Card,3.6,1.3541666666666667,2
+3369,30,Female,25,Nebraska,30,True,M,Blue,Express,True,Bank Transfer,4.8,0.8333333333333334,2
+3370,47,Female,51,Maine,43,True,M,Indigo,2-Day Shipping,True,Cash,3.8,1.186046511627907,2
+3374,70,Female,52,Minnesota,13,True,M,Purple,Store Pickup,True,Debit Card,3.5,4.0,2
+3375,22,Female,47,Nevada,42,True,S,Lavender,2-Day Shipping,True,Debit Card,3.7,1.119047619047619,2
+3379,49,Female,75,Minnesota,7,True,L,Gold,Next Day Air,True,Cash,4.5,10.714285714285714,2
+3382,57,Female,66,Minnesota,28,True,L,Turquoise,Standard,True,Credit Card,4.7,2.357142857142857,2
+3383,34,Female,35,Nebraska,3,True,M,Maroon,Express,True,Bank Transfer,2.8,11.666666666666666,2
+3385,39,Female,24,Minnesota,10,True,L,Maroon,Free Shipping,True,Venmo,3.8,2.4,2
+3387,34,Female,62,Michigan,37,True,M,Lavender,2-Day Shipping,True,Cash,2.6,1.6756756756756757,2
+3388,53,Female,78,New Jersey,3,True,S,Pink,2-Day Shipping,True,Credit Card,3.4,26.0,2
+3390,38,Female,57,North Carolina,40,True,L,Maroon,Free Shipping,True,Venmo,3.8,1.425,2
+3392,47,Female,57,Montana,7,True,M,Silver,2-Day Shipping,True,Debit Card,3.7,8.142857142857142,2
+3398,19,Female,38,New Jersey,14,True,L,Yellow,Standard,True,Bank Transfer,2.7,2.7142857142857144,2
+3399,54,Female,60,Montana,45,True,L,Pink,Standard,True,Cash,3.8,1.3333333333333333,2
+3400,40,Female,55,Montana,37,True,XL,Yellow,Standard,True,Debit Card,3.3,1.4864864864864864,2
+3401,39,Female,51,Nevada,19,True,M,Lavender,Free Shipping,True,Venmo,4.8,2.6842105263157894,2
+3402,44,Female,71,Nevada,40,True,L,Peach,Standard,True,Credit Card,3.4,1.775,2
+3407,57,Female,79,Nebraska,25,True,M,Red,Store Pickup,True,Venmo,4.0,3.16,2
+3409,48,Female,72,Montana,12,True,L,Purple,Standard,True,Bank Transfer,4.4,6.0,2
+3410,24,Female,93,Minnesota,4,True,M,Teal,Next Day Air,True,Credit Card,3.2,23.25,2
+3422,57,Female,30,New Jersey,28,True,M,Maroon,Free Shipping,True,PayPal,2.9,1.0714285714285714,2
+3426,38,Female,54,Michigan,4,True,M,Blue,Next Day Air,True,Debit Card,4.3,13.5,2
+3428,39,Female,38,Michigan,45,True,XL,Turquoise,Store Pickup,True,Cash,2.5,0.8444444444444444,2
+3431,67,Female,73,Montana,18,True,M,Lavender,Next Day Air,True,Bank Transfer,4.2,4.055555555555555,2
+3432,46,Female,49,New Mexico,21,True,S,Green,Express,True,Venmo,4.2,2.3333333333333335,2
+3436,68,Female,91,Montana,51,True,M,Beige,2-Day Shipping,True,Debit Card,2.7,1.7843137254901962,2
+3437,57,Female,83,Nebraska,42,True,L,Peach,2-Day Shipping,True,Bank Transfer,2.8,1.9761904761904763,2
+3441,45,Female,63,Maryland,3,True,L,Magenta,2-Day Shipping,True,PayPal,4.3,21.0,2
+3443,28,Female,78,Michigan,13,True,M,Violet,Next Day Air,True,PayPal,4.3,6.0,2
+3452,32,Female,73,Nevada,14,True,XL,Silver,Free Shipping,True,Credit Card,3.0,5.214285714285714,2
+3455,55,Female,71,Louisiana,16,True,S,Lavender,Store Pickup,True,PayPal,4.6,4.4375,2
+3458,64,Female,87,Maryland,30,True,M,Gray,Express,True,Cash,3.0,2.9,2
+3463,44,Female,73,Michigan,35,True,L,Olive,Standard,True,Credit Card,4.5,2.085714285714286,2
+3467,49,Female,42,Maryland,44,True,S,Purple,Standard,True,Bank Transfer,4.6,0.9545454545454546,2
+3480,46,Female,56,New York,42,True,S,Orange,Standard,True,Cash,4.9,1.3333333333333333,2
+3481,21,Female,79,New Hampshire,46,True,L,Peach,Free Shipping,True,PayPal,3.5,1.7173913043478262,2
+3492,22,Female,28,Maine,16,True,M,Orange,Express,True,Cash,4.3,1.75,2
+3500,22,Female,29,New Jersey,14,True,L,Indigo,Next Day Air,True,PayPal,3.0,2.0714285714285716,2
+3502,53,Female,87,Nebraska,44,True,M,Silver,Standard,True,Bank Transfer,4.8,1.9772727272727273,2
+3503,31,Female,62,Massachusetts,27,True,M,Green,Next Day Air,True,Bank Transfer,4.7,2.2962962962962963,2
+3504,31,Female,96,Nebraska,40,True,M,Pink,Free Shipping,True,Cash,3.9,2.4,2
+3512,69,Female,81,Mississippi,22,True,M,Blue,2-Day Shipping,True,Credit Card,3.9,3.6818181818181817,2
+3522,52,Female,50,Maryland,36,True,M,Pink,Store Pickup,True,Venmo,3.7,1.3888888888888888,2
+3523,27,Female,85,New Jersey,14,True,M,Yellow,Store Pickup,True,Cash,3.2,6.071428571428571,2
+3524,49,Female,59,Nevada,31,True,M,Cyan,Standard,True,Cash,2.8,1.903225806451613,2
+3525,69,Female,74,Michigan,31,True,L,Silver,Free Shipping,True,Credit Card,2.9,2.3870967741935485,2
+3527,20,Female,99,Massachusetts,2,True,M,Olive,Express,True,PayPal,3.8,49.5,2
+3530,55,Female,20,Montana,44,True,S,Maroon,Next Day Air,True,Bank Transfer,3.9,0.45454545454545453,2
+3536,68,Female,51,Mississippi,21,True,M,Red,Express,True,Debit Card,5.0,2.4285714285714284,2
+3537,55,Female,21,Minnesota,11,True,L,Peach,Express,True,Venmo,4.5,1.9090909090909092,2
+3540,29,Female,56,New York,18,True,S,Green,Express,True,Credit Card,3.2,3.111111111111111,2
+3541,24,Female,95,Nevada,6,True,M,Magenta,Free Shipping,True,Bank Transfer,4.6,15.833333333333334,2
+3552,66,Female,31,Montana,21,True,L,Black,Store Pickup,True,Venmo,2.6,1.4761904761904763,2
+3554,62,Female,99,Minnesota,33,True,M,Charcoal,Free Shipping,True,Bank Transfer,4.9,3.0,2
+3558,52,Female,26,Nevada,2,True,M,Peach,Next Day Air,True,PayPal,4.9,13.0,2
+3564,43,Female,90,Maine,9,True,M,Green,Standard,True,Credit Card,4.9,10.0,2
+3568,32,Female,56,New Mexico,27,True,S,Silver,Next Day Air,True,Credit Card,4.0,2.074074074074074,2
+3578,66,Female,35,Missouri,14,True,S,Yellow,Standard,True,Bank Transfer,2.6,2.5,2
+3581,51,Female,83,New Hampshire,4,True,M,Magenta,2-Day Shipping,True,Cash,3.2,20.75,2
+3589,23,Female,55,Michigan,41,True,M,Magenta,2-Day Shipping,True,Cash,3.5,1.3414634146341464,2
+3590,31,Female,73,New Hampshire,39,True,M,Blue,Next Day Air,True,Cash,4.8,1.8717948717948718,2
+3593,61,Female,82,New Jersey,19,True,L,Lavender,2-Day Shipping,True,Venmo,4.4,4.315789473684211,2
+3598,29,Female,71,New Mexico,19,True,M,Maroon,Standard,True,Bank Transfer,3.1,3.736842105263158,2
+3605,63,Female,86,Louisiana,18,True,M,Orange,Standard,True,Debit Card,3.3,4.777777777777778,2
+3607,41,Female,90,Minnesota,42,True,XL,Purple,Express,True,Venmo,4.8,2.142857142857143,2
+3613,47,Female,29,Michigan,27,True,M,Teal,Standard,True,Cash,3.6,1.0740740740740742,2
+3614,58,Female,27,Minnesota,41,True,M,Magenta,Store Pickup,True,Venmo,3.5,0.6585365853658537,2
+3619,28,Female,67,Nevada,48,True,M,Maroon,2-Day Shipping,True,PayPal,4.0,1.3958333333333333,2
+3620,44,Female,75,North Carolina,51,True,S,Magenta,2-Day Shipping,True,Venmo,4.9,1.4705882352941178,2
+3622,38,Female,32,New Jersey,6,True,XL,Silver,2-Day Shipping,True,Cash,4.0,5.333333333333333,2
+3627,69,Female,98,Mississippi,33,True,L,Teal,Express,True,Venmo,3.5,2.9696969696969697,2
+3632,48,Female,50,New Jersey,27,True,M,Peach,Store Pickup,True,Credit Card,2.9,1.8518518518518519,2
+3634,39,Female,51,Montana,2,True,M,Orange,Free Shipping,True,Bank Transfer,2.8,25.5,2
+3641,47,Female,31,Minnesota,18,True,L,Pink,Next Day Air,True,PayPal,4.0,1.7222222222222223,2
+3647,69,Female,68,Nevada,40,True,M,Maroon,2-Day Shipping,True,Debit Card,5.0,1.7,2
+3650,68,Female,57,Minnesota,34,True,M,Brown,Standard,True,Credit Card,4.4,1.6764705882352942,2
+3654,67,Female,20,Minnesota,40,True,M,Blue,Next Day Air,True,Credit Card,3.9,0.5,2
+3659,28,Female,72,Mississippi,19,True,M,Magenta,Standard,True,PayPal,4.6,3.789473684210526,2
+3665,63,Female,68,Missouri,2,True,M,Turquoise,Store Pickup,True,Debit Card,4.4,34.0,2
+3666,28,Female,77,North Carolina,12,True,M,Peach,Next Day Air,True,Credit Card,3.4,6.416666666666667,2
+3669,59,Female,71,Michigan,19,True,XL,Magenta,Store Pickup,True,Venmo,3.2,3.736842105263158,2
+3673,51,Female,81,New York,8,True,S,Pink,Free Shipping,True,PayPal,4.5,10.125,2
+3678,32,Female,30,Michigan,44,True,M,Gray,Standard,True,Cash,2.8,0.6818181818181818,2
+3684,30,Female,77,Mississippi,18,True,M,Purple,Free Shipping,True,Venmo,3.0,4.277777777777778,2
+3692,63,Female,21,Michigan,25,True,XL,Orange,Next Day Air,True,PayPal,4.8,0.84,2
+3704,30,Female,83,Michigan,24,True,S,Teal,Standard,True,PayPal,2.9,3.4583333333333335,2
+3705,68,Female,61,Missouri,37,True,L,Black,Store Pickup,True,Credit Card,4.0,1.6486486486486487,2
+3715,18,Female,31,New York,36,True,S,Peach,Express,True,Credit Card,3.9,0.8611111111111112,2
+3716,63,Female,34,Nebraska,3,True,S,Orange,Free Shipping,True,Bank Transfer,3.4,11.333333333333334,2
+3736,38,Female,44,Massachusetts,30,True,L,Orange,2-Day Shipping,True,PayPal,3.1,1.4666666666666666,2
+3738,19,Female,23,Kentucky,44,True,S,Maroon,Free Shipping,True,PayPal,4.9,0.5227272727272727,2
+3743,56,Female,80,Maryland,51,True,M,Gray,Standard,True,Credit Card,4.4,1.5686274509803921,2
+3745,24,Female,51,New Jersey,27,True,M,Gray,Next Day Air,True,Bank Transfer,2.7,1.8888888888888888,2
+3755,46,Female,41,Nebraska,11,True,M,Turquoise,Express,True,Cash,4.4,3.727272727272727,2
+3760,44,Female,61,Missouri,31,True,M,Pink,Store Pickup,True,Venmo,3.5,1.967741935483871,2
+3762,60,Female,30,Nevada,4,True,M,Green,Next Day Air,True,Venmo,2.8,7.5,2
+3763,65,Female,94,New York,14,True,L,Green,Store Pickup,True,PayPal,2.9,6.714285714285714,2
+3766,22,Female,52,Missouri,15,True,M,Green,Standard,True,Bank Transfer,4.3,3.466666666666667,2
+3771,23,Female,42,Montana,35,True,L,Black,Store Pickup,True,Bank Transfer,4.0,1.2,2
+3773,44,Female,26,New Hampshire,36,True,L,Yellow,Next Day Air,True,Cash,3.1,0.7222222222222222,2
+3781,54,Female,57,Mississippi,42,True,L,Yellow,Free Shipping,True,Venmo,4.1,1.3571428571428572,2
+3784,39,Female,66,Maine,18,True,XL,Orange,Free Shipping,True,Debit Card,3.2,3.6666666666666665,2
+3786,64,Female,94,New Hampshire,7,True,L,Lavender,Standard,True,Cash,3.8,13.428571428571429,2
+3788,37,Female,80,New York,47,True,M,Pink,2-Day Shipping,True,PayPal,3.6,1.702127659574468,2
+3793,43,Female,58,Massachusetts,3,True,S,Turquoise,Express,True,PayPal,2.6,19.333333333333332,2
+3806,48,Female,57,New Jersey,32,True,M,Green,Standard,True,Credit Card,3.1,1.78125,2
+3807,18,Female,71,Missouri,42,True,M,Teal,Standard,True,PayPal,3.0,1.6904761904761905,2
+3808,38,Female,39,Michigan,37,True,L,Peach,Next Day Air,True,PayPal,2.9,1.054054054054054,2
+3810,57,Female,33,New York,29,True,S,Maroon,Standard,True,Credit Card,3.7,1.1379310344827587,2
+3813,50,Female,75,Michigan,8,True,M,Pink,Next Day Air,True,Bank Transfer,2.8,9.375,2
+3815,45,Female,95,Michigan,27,True,M,Orange,Free Shipping,True,Bank Transfer,4.2,3.5185185185185186,2
+3817,29,Female,86,Maryland,46,True,S,Silver,Store Pickup,True,Credit Card,4.3,1.8695652173913044,2
+3818,66,Female,91,Missouri,41,True,M,Magenta,Express,True,PayPal,2.6,2.2195121951219514,2
+3821,34,Female,65,New Hampshire,35,True,M,Purple,Standard,True,Debit Card,5.0,1.8571428571428572,2
+3827,50,Female,31,Montana,26,True,M,Gray,Express,True,Bank Transfer,4.0,1.1923076923076923,2
+3828,62,Female,73,Montana,48,True,M,Red,Standard,True,Cash,4.1,1.5208333333333333,2
+3829,42,Female,82,Mississippi,9,True,M,Charcoal,Free Shipping,True,Cash,3.4,9.11111111111111,2
+3832,36,Female,86,Nevada,17,True,L,Silver,Next Day Air,True,Debit Card,4.0,5.0588235294117645,2
+3838,45,Female,100,New Mexico,34,True,M,Green,Free Shipping,True,Bank Transfer,4.8,2.9411764705882355,2
+3842,68,Female,57,Mississippi,9,True,L,Pink,2-Day Shipping,True,Bank Transfer,4.2,6.333333333333333,2
+3845,30,Female,87,Montana,41,True,S,Cyan,Next Day Air,True,Venmo,5.0,2.1219512195121952,2
+3849,22,Female,60,New Hampshire,40,True,M,Magenta,Next Day Air,True,Cash,3.0,1.5,2
+3851,27,Female,74,Mississippi,26,True,L,Indigo,2-Day Shipping,True,Debit Card,4.4,2.8461538461538463,2
+3852,50,Female,83,Montana,25,True,M,Pink,Free Shipping,True,Debit Card,3.9,3.32,2
+3853,65,Female,79,Mississippi,20,True,M,Peach,2-Day Shipping,True,PayPal,4.0,3.95,2
+3859,30,Female,77,Missouri,27,True,M,Olive,Store Pickup,True,Credit Card,3.5,2.8518518518518516,2
+3860,65,Female,88,Mississippi,48,True,S,Blue,2-Day Shipping,True,Bank Transfer,3.0,1.8333333333333333,2
+3864,40,Female,35,New Hampshire,29,True,M,Orange,Free Shipping,True,Cash,3.3,1.206896551724138,2
+3866,25,Female,42,Nebraska,29,True,M,Olive,Store Pickup,True,Cash,4.2,1.4482758620689655,2
+3868,46,Female,21,Maryland,29,True,L,Lavender,Standard,True,Credit Card,2.7,0.7241379310344828,2
+3869,18,Female,29,Maryland,10,True,XL,Magenta,2-Day Shipping,True,Cash,3.3,2.9,2
+3872,55,Female,97,Minnesota,21,True,M,Black,2-Day Shipping,True,Bank Transfer,4.1,4.619047619047619,2
+3873,41,Female,94,New Hampshire,4,True,M,Green,Standard,True,Cash,4.3,23.5,2
+3875,70,Female,54,Nevada,34,True,XL,Beige,2-Day Shipping,True,Credit Card,3.9,1.588235294117647,2
+3876,63,Female,51,New Hampshire,22,True,M,Pink,2-Day Shipping,True,Credit Card,3.3,2.3181818181818183,2
+3878,28,Female,96,Nevada,47,True,M,Olive,Next Day Air,True,Debit Card,4.2,2.0425531914893615,2
+3881,42,Female,20,Massachusetts,41,True,M,Red,Free Shipping,True,PayPal,3.9,0.4878048780487805,2
+3886,49,Female,64,New Mexico,40,True,L,Purple,Free Shipping,True,Cash,3.2,1.6,2
+3891,35,Female,81,Nebraska,34,True,XL,Green,Standard,True,Debit Card,2.6,2.3823529411764706,2
+3893,35,Female,86,Michigan,6,True,L,Indigo,Standard,True,PayPal,3.5,14.333333333333334,2
+3894,21,Female,64,Massachusetts,30,True,L,White,Store Pickup,True,Bank Transfer,3.3,2.1333333333333333,2
+3898,46,Female,33,New Jersey,25,True,L,Green,Standard,True,Venmo,2.9,1.32,2
+3899,44,Female,77,Minnesota,25,True,S,Brown,Express,True,Venmo,3.8,3.08,2
