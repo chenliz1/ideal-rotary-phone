@@ -1,6 +1,7 @@
 # ideal-rotary-phone
 
-It's a toy demo for AI_accer hackathon.
+It's a notebook demo for Accelerate-AI Hackathon 2024 Project Team 4.
+`customer_segmentation.ipynb` is the main entry point.
 
 ## Requirements
 
